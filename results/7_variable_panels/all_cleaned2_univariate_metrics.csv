@@ -1,0 +1,25 @@
+"variable","auc","threshold"
+"age",0.6679179133244,54.5
+"sex == female",0.374933460599497,-Inf
+"sex == female",0.374933460599497,Inf
+"sex == male",0.625066539400503,0.5
+"chest pain == asymptomatic",0.764918592485178,0.5
+"chest pain == atypical angina",0.34740909341214,-Inf
+"chest pain == atypical angina",0.34740909341214,Inf
+"chest pain == non-anginal pain",0.401705244222544,-Inf
+"chest pain == non-anginal pain",0.401705244222544,Inf
+"chest pain == typical angina",0.485967069880137,-Inf
+"chest pain == typical angina",0.485967069880137,Inf
+"resting bp",0.602305475504323,131
+"cholestoral",0.570637309789093,245.5
+"fasting sugar == <6.7mM",0.451554727509683,-Inf
+"fasting sugar == <6.7mM",0.451554727509683,Inf
+"fasting sugar == >6.7mM",0.548445272490317,0.5
+"resting ECG == left ventricular hypertrophy",0.532512527762991,0.5
+"resting ECG == normal",0.430188696561978,-Inf
+"resting ECG == normal",0.430188696561978,Inf
+"resting ECG == ST-T wave abnormality",0.537298775675031,0.5
+"max HR",0.720291304906478,147.5
+"exercise angina == no",0.744832871381633,0.5
+"exercise angina == yes",0.744832871381633,0.5
+"exercise ST depression",0.765496796930928,0.85

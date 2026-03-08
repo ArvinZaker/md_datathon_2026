@@ -1,0 +1,2 @@
+"model","maxdepth","Accuracy","AccuracySD","ROC","ROCSD"
+"rpart_manual_5fold",4,0.75085371690556,0.0325109429075214,0.827466692131398,0.0380225078802706

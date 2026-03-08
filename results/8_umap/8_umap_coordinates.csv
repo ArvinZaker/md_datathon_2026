@@ -1,0 +1,662 @@
+"age","sex","chest pain","resting bp","cholestoral","fasting sugar","resting ECG","max HR","exercise angina","exercise ST depression","diagnosis","dataset","age group","max HR group","exercise ST depression group","UMAP1","UMAP2"
+63,"male","typical angina",145,233,">6.7mM","left ventricular hypertrophy",150,"no",2.3,"No narrowing","cleveland",">=57",">=143",">=1.5",3.45496414569734,8.88996620669963
+67,"male","asymptomatic",160,286,"<6.7mM","left ventricular hypertrophy",108,"yes",1.5,"Narrowing","cleveland",">=57","<143",">=1.5",1.13235710218135,-2.49506796192472
+67,"male","asymptomatic",120,229,"<6.7mM","left ventricular hypertrophy",129,"yes",2.6,"Narrowing","cleveland",">=57","<143",">=1.5",1.56317177409857,-2.48408457464998
+37,"male","non-anginal pain",130,250,"<6.7mM","normal",187,"no",3.5,"No narrowing","cleveland","<57",">=143",">=1.5",4.61809468725759,-1.69913769816074
+41,"female","atypical angina",130,204,"<6.7mM","left ventricular hypertrophy",172,"no",1.4,"No narrowing","cleveland","<57",">=143","<1.5",-5.8108364398795,5.27390082346821
+56,"male","atypical angina",120,236,"<6.7mM","normal",178,"no",0.8,"No narrowing","cleveland","<57",">=143","<1.5",3.00296661070371,-5.89645985969104
+62,"female","asymptomatic",140,268,"<6.7mM","left ventricular hypertrophy",160,"no",3.6,"Narrowing","cleveland",">=57",">=143",">=1.5",-5.47284634125474,3.162245359035
+57,"female","asymptomatic",120,354,"<6.7mM","normal",163,"yes",0.6,"No narrowing","cleveland",">=57",">=143","<1.5",-5.59200325746175,3.80619281663785
+63,"male","asymptomatic",130,254,"<6.7mM","left ventricular hypertrophy",147,"no",1.4,"Narrowing","cleveland",">=57",">=143","<1.5",2.18211789697252,-3.46795843142197
+53,"male","asymptomatic",140,203,">6.7mM","left ventricular hypertrophy",155,"yes",3.1,"Narrowing","cleveland","<57",">=143",">=1.5",1.09444063238403,-1.55738371901899
+57,"male","asymptomatic",140,192,"<6.7mM","normal",148,"no",0.4,"No narrowing","cleveland",">=57",">=143","<1.5",1.36252449299034,-4.52113546691636
+56,"female","atypical angina",140,294,"<6.7mM","left ventricular hypertrophy",153,"no",1.3,"No narrowing","cleveland","<57",">=143","<1.5",-5.87338448660064,5.17086645526648
+56,"male","non-anginal pain",130,256,">6.7mM","left ventricular hypertrophy",142,"yes",0.6,"Narrowing","cleveland","<57","<143","<1.5",1.09427286674816,-1.50969514838025
+44,"male","atypical angina",120,263,"<6.7mM","normal",173,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",2.99026629372855,-5.90565840935349
+52,"male","non-anginal pain",172,199,">6.7mM","normal",162,"no",0.5,"No narrowing","cleveland","<57",">=143","<1.5",3.60590163423958,-1.20255131566843
+57,"male","non-anginal pain",150,168,"<6.7mM","normal",174,"no",1.6,"No narrowing","cleveland",">=57",">=143",">=1.5",4.70253113936628,-1.43196124399483
+48,"male","atypical angina",110,229,"<6.7mM","normal",168,"no",1,"Narrowing","cleveland","<57",">=143","<1.5",3.04845068163593,-5.80391019265657
+54,"male","asymptomatic",140,239,"<6.7mM","normal",160,"no",1.2,"No narrowing","cleveland","<57",">=143","<1.5",1.55046457603739,-4.56382705050078
+48,"female","non-anginal pain",130,275,"<6.7mM","normal",139,"no",0.2,"No narrowing","cleveland","<57","<143","<1.5",-7.16297726301037,2.98841177461488
+49,"male","atypical angina",130,266,"<6.7mM","normal",171,"no",0.6,"No narrowing","cleveland","<57",">=143","<1.5",3.02938111740113,-5.83823574955668
+64,"male","typical angina",110,211,"<6.7mM","left ventricular hypertrophy",144,"yes",1.8,"No narrowing","cleveland",">=57",">=143",">=1.5",3.27317992575397,9.30539305817558
+58,"female","typical angina",150,283,">6.7mM","left ventricular hypertrophy",162,"no",1,"No narrowing","cleveland",">=57",">=143","<1.5",3.60792879100388,8.94699210359477
+58,"male","atypical angina",120,284,"<6.7mM","left ventricular hypertrophy",160,"no",1.8,"Narrowing","cleveland",">=57",">=143",">=1.5",2.36506941286104,-3.88537246069857
+58,"male","non-anginal pain",132,224,"<6.7mM","left ventricular hypertrophy",173,"no",3.2,"Narrowing","cleveland",">=57",">=143",">=1.5",4.31337071420673,-2.19421195380378
+60,"male","asymptomatic",130,206,"<6.7mM","left ventricular hypertrophy",132,"yes",2.4,"Narrowing","cleveland",">=57","<143",">=1.5",1.50376667036529,-2.55355925118527
+50,"female","non-anginal pain",120,219,"<6.7mM","normal",158,"no",1.6,"No narrowing","cleveland","<57",">=143",">=1.5",-7.17459919046105,2.95740298117804
+58,"female","non-anginal pain",120,340,"<6.7mM","normal",172,"no",0,"No narrowing","cleveland",">=57",">=143","<1.5",-6.94814220329145,2.93198247258326
+66,"female","typical angina",150,226,"<6.7mM","normal",114,"no",2.6,"No narrowing","cleveland",">=57","<143",">=1.5",3.7030415345592,9.15725842310157
+43,"male","asymptomatic",150,247,"<6.7mM","normal",171,"no",1.5,"No narrowing","cleveland","<57",">=143",">=1.5",1.56785966227303,-4.55860546033979
+40,"male","asymptomatic",110,167,"<6.7mM","left ventricular hypertrophy",114,"yes",2,"Narrowing","cleveland","<57","<143",">=1.5",1.25628686383119,-2.84527393108658
+69,"female","typical angina",140,239,"<6.7mM","normal",151,"no",1.8,"No narrowing","cleveland",">=57",">=143",">=1.5",3.74852512269263,9.18671971355134
+60,"male","asymptomatic",117,230,">6.7mM","normal",160,"yes",1.4,"Narrowing","cleveland",">=57",">=143","<1.5",1.08861327016123,-1.62129566700683
+64,"male","non-anginal pain",140,335,"<6.7mM","normal",158,"no",0,"Narrowing","cleveland",">=57",">=143","<1.5",4.52967064847746,-1.8690044777001
+59,"male","asymptomatic",135,234,"<6.7mM","normal",161,"no",0.5,"No narrowing","cleveland",">=57",">=143","<1.5",1.42967832210942,-4.46514949660749
+44,"male","non-anginal pain",130,233,"<6.7mM","normal",179,"yes",0.4,"No narrowing","cleveland","<57",">=143","<1.5",4.80881886549353,-1.32179602185348
+42,"male","asymptomatic",140,226,"<6.7mM","normal",178,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",1.56764843055532,-4.54290062636523
+43,"male","asymptomatic",120,177,"<6.7mM","left ventricular hypertrophy",120,"yes",2.5,"Narrowing","cleveland","<57","<143",">=1.5",1.43402482988968,-2.66166317231656
+57,"male","asymptomatic",150,276,"<6.7mM","left ventricular hypertrophy",112,"yes",0.6,"Narrowing","cleveland",">=57","<143","<1.5",1.10521300728471,-2.54315416417918
+55,"male","asymptomatic",132,353,"<6.7mM","normal",132,"yes",1.2,"Narrowing","cleveland","<57","<143","<1.5",0.158277102765224,-3.33320783968781
+61,"male","non-anginal pain",150,243,">6.7mM","normal",137,"yes",1,"No narrowing","cleveland",">=57","<143","<1.5",3.42975479472755,-1.16388360295955
+65,"female","asymptomatic",150,225,"<6.7mM","left ventricular hypertrophy",114,"no",1,"Narrowing","cleveland",">=57","<143","<1.5",-5.48778470331031,3.35180809421342
+40,"male","typical angina",140,199,"<6.7mM","normal",178,"yes",1.4,"No narrowing","cleveland","<57",">=143","<1.5",3.27600934585107,9.31137081095304
+71,"female","atypical angina",160,302,"<6.7mM","normal",162,"no",0.4,"No narrowing","cleveland",">=57",">=143","<1.5",-5.8749016931143,5.31445702891838
+59,"male","non-anginal pain",150,212,">6.7mM","normal",157,"no",1.6,"No narrowing","cleveland",">=57",">=143",">=1.5",3.46692475542057,-1.17964615198399
+61,"female","asymptomatic",130,330,"<6.7mM","left ventricular hypertrophy",169,"no",0,"Narrowing","cleveland",">=57",">=143","<1.5",-5.58982985343045,3.36822929337789
+58,"male","non-anginal pain",112,230,"<6.7mM","left ventricular hypertrophy",165,"no",2.5,"Narrowing","cleveland",">=57",">=143",">=1.5",4.35735485298528,-2.19654309764025
+51,"male","non-anginal pain",110,175,"<6.7mM","normal",123,"no",0.6,"No narrowing","cleveland","<57","<143","<1.5",4.93494422905416,-1.35423003432582
+50,"male","asymptomatic",150,243,"<6.7mM","left ventricular hypertrophy",128,"no",2.6,"Narrowing","cleveland","<57","<143",">=1.5",2.12398526038858,-3.1812763153482
+65,"female","non-anginal pain",140,417,">6.7mM","left ventricular hypertrophy",157,"no",0.8,"No narrowing","cleveland",">=57",">=143","<1.5",-6.46819219789001,3.00444060754658
+53,"male","non-anginal pain",130,197,">6.7mM","left ventricular hypertrophy",152,"no",1.2,"No narrowing","cleveland","<57",">=143","<1.5",3.43821888388451,-1.26580395722733
+41,"female","atypical angina",105,198,"<6.7mM","normal",168,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",-5.93320720659533,5.58667503834981
+65,"male","asymptomatic",120,177,"<6.7mM","normal",140,"no",0.4,"No narrowing","cleveland",">=57","<143","<1.5",1.31826528292921,-4.53355927515525
+44,"male","asymptomatic",112,290,"<6.7mM","left ventricular hypertrophy",153,"no",0,"Narrowing","cleveland","<57",">=143","<1.5",1.97697460840382,-3.73049478726454
+44,"male","atypical angina",130,219,"<6.7mM","left ventricular hypertrophy",188,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",2.63518777849515,-5.77928792575599
+60,"male","asymptomatic",130,253,"<6.7mM","normal",144,"yes",1.4,"Narrowing","cleveland",">=57",">=143","<1.5",0.494272005470674,-3.29531568869365
+54,"male","asymptomatic",124,266,"<6.7mM","left ventricular hypertrophy",109,"yes",2.2,"Narrowing","cleveland","<57","<143",">=1.5",1.66143048792168,-2.58085039386735
+50,"male","non-anginal pain",140,233,"<6.7mM","normal",163,"no",0.6,"Narrowing","cleveland","<57",">=143","<1.5",4.66014992076842,-1.66030130115363
+41,"male","asymptomatic",110,172,"<6.7mM","left ventricular hypertrophy",158,"no",0,"Narrowing","cleveland","<57",">=143","<1.5",1.82000806487992,-3.87904203070709
+54,"male","non-anginal pain",125,273,"<6.7mM","left ventricular hypertrophy",152,"no",0.5,"No narrowing","cleveland","<57",">=143","<1.5",4.32246720548276,-1.56963157707744
+51,"male","typical angina",125,213,"<6.7mM","left ventricular hypertrophy",125,"yes",1.4,"No narrowing","cleveland","<57","<143","<1.5",3.23473359133282,9.3363001582919
+51,"female","asymptomatic",130,305,"<6.7mM","normal",142,"yes",1.2,"Narrowing","cleveland","<57","<143","<1.5",-5.13054146067226,3.87935863770303
+46,"female","non-anginal pain",142,177,"<6.7mM","left ventricular hypertrophy",160,"yes",1.4,"No narrowing","cleveland","<57",">=143","<1.5",-6.4459905188114,2.87408275102767
+58,"male","asymptomatic",128,216,"<6.7mM","left ventricular hypertrophy",131,"yes",2.2,"Narrowing","cleveland",">=57","<143",">=1.5",1.35982299596492,-2.51576682388501
+54,"female","non-anginal pain",135,304,">6.7mM","normal",170,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",-6.85042925527793,3.04990537289953
+54,"male","asymptomatic",120,188,"<6.7mM","normal",113,"no",1.4,"Narrowing","cleveland","<57","<143","<1.5",0.622648835031289,-4.11388099651557
+60,"male","asymptomatic",145,282,"<6.7mM","left ventricular hypertrophy",142,"yes",2.8,"Narrowing","cleveland",">=57","<143",">=1.5",1.56498748580571,-2.37535240122167
+60,"male","non-anginal pain",140,185,"<6.7mM","left ventricular hypertrophy",155,"no",3,"Narrowing","cleveland",">=57",">=143",">=1.5",4.31038923864457,-2.29055950094116
+54,"male","non-anginal pain",150,232,"<6.7mM","left ventricular hypertrophy",165,"no",1.6,"No narrowing","cleveland","<57",">=143",">=1.5",4.24025335172954,-1.81960626967556
+59,"male","asymptomatic",170,326,"<6.7mM","left ventricular hypertrophy",140,"yes",3.4,"Narrowing","cleveland",">=57","<143",">=1.5",1.42506920115518,-2.4128572469656
+46,"male","non-anginal pain",150,231,"<6.7mM","normal",147,"no",3.6,"Narrowing","cleveland","<57",">=143",">=1.5",4.52441626099471,-1.85394848415682
+65,"female","non-anginal pain",155,269,"<6.7mM","normal",148,"no",0.8,"No narrowing","cleveland",">=57",">=143","<1.5",-6.8065406187938,2.97043764636031
+67,"male","asymptomatic",125,254,">6.7mM","normal",163,"no",0.2,"Narrowing","cleveland",">=57",">=143","<1.5",1.18802603184653,-1.53670456293888
+62,"male","asymptomatic",120,267,"<6.7mM","normal",99,"yes",1.8,"Narrowing","cleveland",">=57","<143",">=1.5",0.439926837451417,-3.36435524159586
+65,"male","asymptomatic",110,248,"<6.7mM","left ventricular hypertrophy",158,"no",0.6,"Narrowing","cleveland",">=57",">=143","<1.5",2.04836652444961,-3.61383277618586
+44,"male","asymptomatic",110,197,"<6.7mM","left ventricular hypertrophy",177,"no",0,"Narrowing","cleveland","<57",">=143","<1.5",1.85339495291605,-3.85250395090085
+65,"female","non-anginal pain",160,360,"<6.7mM","left ventricular hypertrophy",151,"no",0.8,"No narrowing","cleveland",">=57",">=143","<1.5",-6.47299232374592,2.90402460784467
+60,"male","asymptomatic",125,258,"<6.7mM","left ventricular hypertrophy",141,"yes",2.8,"Narrowing","cleveland",">=57","<143",">=1.5",1.52052665246766,-2.44224013171539
+51,"female","non-anginal pain",140,308,"<6.7mM","left ventricular hypertrophy",142,"no",1.5,"No narrowing","cleveland","<57","<143",">=1.5",-6.48950038506352,2.80976274810356
+48,"male","atypical angina",130,245,"<6.7mM","left ventricular hypertrophy",180,"no",0.2,"No narrowing","cleveland","<57",">=143","<1.5",2.65181272042436,-5.65371428815716
+58,"male","asymptomatic",150,270,"<6.7mM","left ventricular hypertrophy",111,"yes",0.8,"Narrowing","cleveland",">=57","<143","<1.5",1.09526193321839,-2.62316277579343
+45,"male","asymptomatic",104,208,"<6.7mM","left ventricular hypertrophy",148,"yes",3,"No narrowing","cleveland","<57",">=143",">=1.5",1.33752653456126,-2.62030082406757
+53,"female","asymptomatic",130,264,"<6.7mM","left ventricular hypertrophy",143,"no",0.4,"No narrowing","cleveland","<57",">=143","<1.5",-5.93224498662731,3.7256408694619
+39,"male","non-anginal pain",140,321,"<6.7mM","left ventricular hypertrophy",182,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",4.23392935034396,-1.63456380302571
+68,"male","non-anginal pain",180,274,">6.7mM","left ventricular hypertrophy",150,"yes",1.6,"Narrowing","cleveland",">=57",">=143",">=1.5",1.21767704840587,-1.53628811910821
+52,"male","atypical angina",120,325,"<6.7mM","normal",172,"no",0.2,"No narrowing","cleveland","<57",">=143","<1.5",3.10234188689844,-5.87833596139396
+44,"male","non-anginal pain",140,235,"<6.7mM","left ventricular hypertrophy",180,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",4.32532831353552,-1.72526331755936
+47,"male","non-anginal pain",138,257,"<6.7mM","left ventricular hypertrophy",156,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",4.24171096856757,-1.68806939725974
+53,"female","non-anginal pain",128,216,"<6.7mM","left ventricular hypertrophy",115,"no",0,"No narrowing","cleveland","<57","<143","<1.5",-6.53995752201087,2.78907695051295
+53,"female","asymptomatic",138,234,"<6.7mM","left ventricular hypertrophy",160,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",-5.97775814937343,3.75549463254409
+51,"female","non-anginal pain",130,256,"<6.7mM","left ventricular hypertrophy",149,"no",0.5,"No narrowing","cleveland","<57",">=143","<1.5",-6.52118054602171,2.70580303243715
+66,"male","asymptomatic",120,302,"<6.7mM","left ventricular hypertrophy",151,"no",0.4,"No narrowing","cleveland",">=57",">=143","<1.5",2.17202749870592,-3.77665466982178
+62,"female","asymptomatic",160,164,"<6.7mM","left ventricular hypertrophy",145,"no",6.2,"Narrowing","cleveland",">=57",">=143",">=1.5",-5.39205580126167,2.98541624664636
+62,"male","non-anginal pain",130,231,"<6.7mM","normal",146,"no",1.8,"No narrowing","cleveland",">=57",">=143",">=1.5",4.62557704846839,-1.49800851494371
+44,"female","non-anginal pain",108,141,"<6.7mM","normal",175,"no",0.6,"No narrowing","cleveland","<57",">=143","<1.5",-7.39091405486346,2.8468662780473
+63,"female","non-anginal pain",135,252,"<6.7mM","left ventricular hypertrophy",172,"no",0,"No narrowing","cleveland",">=57",">=143","<1.5",-6.44846833369504,2.76490941643523
+52,"male","asymptomatic",128,255,"<6.7mM","normal",161,"yes",0,"Narrowing","cleveland","<57",">=143","<1.5",0.837054590003417,-3.7502111361094
+59,"male","asymptomatic",110,239,"<6.7mM","left ventricular hypertrophy",142,"yes",1.2,"Narrowing","cleveland",">=57","<143","<1.5",1.60949581553222,-2.77763359447015
+60,"female","asymptomatic",150,258,"<6.7mM","left ventricular hypertrophy",157,"no",2.6,"Narrowing","cleveland",">=57",">=143",">=1.5",-5.46352094317557,3.28967374856245
+52,"male","atypical angina",134,201,"<6.7mM","normal",158,"no",0.8,"No narrowing","cleveland","<57",">=143","<1.5",2.89680786793331,-5.83160620176881
+48,"male","asymptomatic",122,222,"<6.7mM","left ventricular hypertrophy",186,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",2.00058364890118,-4.12927424546711
+45,"male","asymptomatic",115,260,"<6.7mM","left ventricular hypertrophy",185,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",1.95654871864187,-4.15502801417995
+34,"male","typical angina",118,182,"<6.7mM","left ventricular hypertrophy",174,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",3.27926076891854,9.42030633054396
+57,"female","asymptomatic",128,303,"<6.7mM","left ventricular hypertrophy",159,"no",0,"No narrowing","cleveland",">=57",">=143","<1.5",-5.97072186767548,3.76789363543993
+71,"female","non-anginal pain",110,265,">6.7mM","left ventricular hypertrophy",130,"no",0,"No narrowing","cleveland",">=57","<143","<1.5",-6.54498065279733,2.81063067875274
+49,"male","non-anginal pain",120,188,"<6.7mM","normal",139,"no",2,"Narrowing","cleveland","<57","<143",">=1.5",4.53910907416092,-1.7925070502452
+54,"male","atypical angina",108,309,"<6.7mM","normal",156,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",3.07150084451515,-5.91033718521125
+59,"male","asymptomatic",140,177,"<6.7mM","normal",162,"yes",0,"Narrowing","cleveland",">=57",">=143","<1.5",0.972183296112766,-3.77544468354659
+57,"male","non-anginal pain",128,229,"<6.7mM","left ventricular hypertrophy",150,"no",0.4,"Narrowing","cleveland",">=57",">=143","<1.5",4.35521954688255,-2.18412684736629
+61,"male","asymptomatic",120,260,"<6.7mM","normal",140,"yes",3.6,"Narrowing","cleveland",">=57","<143",">=1.5",0.26342109181425,-3.13184916234704
+39,"male","asymptomatic",118,219,"<6.7mM","normal",140,"no",1.2,"Narrowing","cleveland","<57","<143","<1.5",1.01639792146104,-3.99174498204113
+61,"female","asymptomatic",145,307,"<6.7mM","left ventricular hypertrophy",146,"yes",1,"Narrowing","cleveland",">=57",">=143","<1.5",-5.26168812450931,3.41024181469391
+56,"male","asymptomatic",125,249,">6.7mM","left ventricular hypertrophy",144,"yes",1.2,"Narrowing","cleveland","<57",">=143","<1.5",1.02265819081025,-1.59526961440081
+52,"male","typical angina",118,186,"<6.7mM","left ventricular hypertrophy",190,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",3.27425507046073,9.40271346833196
+43,"female","asymptomatic",132,341,">6.7mM","left ventricular hypertrophy",136,"yes",3,"Narrowing","cleveland","<57","<143",">=1.5",-5.0788083001685,3.14206574090718
+62,"female","non-anginal pain",130,263,"<6.7mM","normal",97,"no",1.2,"Narrowing","cleveland",">=57","<143","<1.5",-6.76038234234999,2.95410611639419
+41,"male","atypical angina",135,203,"<6.7mM","normal",132,"no",0,"No narrowing","cleveland","<57","<143","<1.5",2.91560272681262,-6.08624631098247
+58,"male","non-anginal pain",140,211,">6.7mM","left ventricular hypertrophy",165,"no",0,"No narrowing","cleveland",">=57",">=143","<1.5",3.5676089170961,-1.24609648022628
+35,"female","asymptomatic",138,183,"<6.7mM","normal",182,"no",1.4,"No narrowing","cleveland","<57",">=143","<1.5",-6.06302198405444,4.44470341329954
+63,"male","asymptomatic",130,330,">6.7mM","left ventricular hypertrophy",132,"yes",1.8,"Narrowing","cleveland",">=57","<143",">=1.5",1.04247464598945,-1.63417774110055
+65,"male","asymptomatic",135,254,"<6.7mM","left ventricular hypertrophy",127,"no",2.8,"Narrowing","cleveland",">=57","<143",">=1.5",2.14592496596036,-3.16574897433277
+48,"male","asymptomatic",130,256,">6.7mM","left ventricular hypertrophy",150,"yes",0,"Narrowing","cleveland","<57",">=143","<1.5",0.977714059732683,-1.60029888025127
+63,"female","asymptomatic",150,407,"<6.7mM","left ventricular hypertrophy",154,"no",4,"Narrowing","cleveland",">=57",">=143",">=1.5",-5.4708248287516,3.19131074008029
+51,"male","non-anginal pain",100,222,"<6.7mM","normal",143,"yes",1.2,"No narrowing","cleveland","<57",">=143","<1.5",4.70945157605929,-1.07323538226987
+55,"male","asymptomatic",140,217,"<6.7mM","normal",111,"yes",5.6,"Narrowing","cleveland","<57","<143",">=1.5",0.293270501956512,-2.86208836819531
+65,"male","typical angina",138,282,">6.7mM","left ventricular hypertrophy",174,"no",1.4,"Narrowing","cleveland",">=57",">=143","<1.5",3.34734306677592,8.88058644891686
+45,"female","atypical angina",130,234,"<6.7mM","left ventricular hypertrophy",175,"no",0.6,"No narrowing","cleveland","<57",">=143","<1.5",-5.92975596874887,5.31137789536996
+56,"female","asymptomatic",200,288,">6.7mM","left ventricular hypertrophy",133,"yes",4,"Narrowing","cleveland","<57","<143",">=1.5",-5.01740455272303,3.07553579637151
+54,"male","asymptomatic",110,239,"<6.7mM","normal",126,"yes",2.8,"Narrowing","cleveland","<57","<143",">=1.5",0.235059574805628,-3.23495540923167
+44,"male","atypical angina",120,220,"<6.7mM","normal",170,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",2.8948072490465,-6.00581628716303
+62,"female","asymptomatic",124,209,"<6.7mM","normal",163,"no",0,"No narrowing","cleveland",">=57",">=143","<1.5",-5.97330216827912,4.00945603771458
+54,"male","non-anginal pain",120,258,"<6.7mM","left ventricular hypertrophy",147,"no",0.4,"No narrowing","cleveland","<57",">=143","<1.5",4.28899632248059,-1.50180934945255
+51,"male","non-anginal pain",94,227,"<6.7mM","normal",154,"yes",0,"No narrowing","cleveland","<57",">=143","<1.5",4.75747713891117,-1.22935773719912
+29,"male","atypical angina",130,204,"<6.7mM","left ventricular hypertrophy",202,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",2.63119110194256,-5.91014702005034
+51,"male","asymptomatic",140,261,"<6.7mM","left ventricular hypertrophy",186,"yes",0,"No narrowing","cleveland","<57",">=143","<1.5",1.98848824210476,-3.99104186879669
+43,"female","non-anginal pain",122,213,"<6.7mM","normal",165,"no",0.2,"No narrowing","cleveland","<57",">=143","<1.5",-7.32547883391387,3.07920911336192
+55,"female","atypical angina",135,250,"<6.7mM","left ventricular hypertrophy",161,"no",1.4,"No narrowing","cleveland","<57",">=143","<1.5",-5.85256950993022,5.18829078276901
+70,"male","asymptomatic",145,174,"<6.7mM","normal",125,"yes",2.6,"Narrowing","cleveland",">=57","<143",">=1.5",0.755489156818321,-3.16109460013326
+62,"male","atypical angina",120,281,"<6.7mM","left ventricular hypertrophy",103,"no",1.4,"Narrowing","cleveland",">=57","<143","<1.5",2.23434352461511,-3.55046464451039
+35,"male","asymptomatic",120,198,"<6.7mM","normal",130,"yes",1.6,"Narrowing","cleveland","<57","<143",">=1.5",-0.0784130616605959,-3.44471906841942
+51,"male","non-anginal pain",125,245,">6.7mM","left ventricular hypertrophy",166,"no",2.4,"No narrowing","cleveland","<57",">=143",">=1.5",3.64130390268313,-1.34817874652474
+59,"male","atypical angina",140,221,"<6.7mM","normal",164,"yes",0,"No narrowing","cleveland",">=57",">=143","<1.5",2.89377925875326,-5.70390239424518
+59,"male","typical angina",170,288,"<6.7mM","left ventricular hypertrophy",159,"no",0.2,"Narrowing","cleveland",">=57",">=143","<1.5",3.20747252117834,9.06568799421672
+52,"male","atypical angina",128,205,">6.7mM","normal",184,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",2.58322703559463,-6.26430410999077
+64,"male","non-anginal pain",125,309,"<6.7mM","normal",131,"yes",1.8,"Narrowing","cleveland",">=57","<143",">=1.5",0.620330760414062,-3.003056149077
+58,"male","non-anginal pain",105,240,"<6.7mM","left ventricular hypertrophy",154,"yes",0.6,"No narrowing","cleveland",">=57",">=143","<1.5",4.5046542880065,-1.2583693370872
+47,"male","non-anginal pain",108,243,"<6.7mM","normal",152,"no",0,"Narrowing","cleveland","<57",">=143","<1.5",4.6911958997326,-1.69744372904676
+57,"male","asymptomatic",165,289,">6.7mM","left ventricular hypertrophy",124,"no",1,"Narrowing","cleveland",">=57","<143","<1.5",1.01247895373068,-1.75896952295735
+41,"male","non-anginal pain",112,250,"<6.7mM","normal",179,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",4.7701972948654,-1.49358561587611
+45,"male","atypical angina",128,308,"<6.7mM","left ventricular hypertrophy",170,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",2.66351602700165,-5.7241385312724
+60,"female","non-anginal pain",102,318,"<6.7mM","normal",160,"no",0,"No narrowing","cleveland",">=57",">=143","<1.5",-6.90551635388945,2.89285271937357
+52,"male","typical angina",152,298,">6.7mM","normal",178,"no",1.2,"No narrowing","cleveland","<57",">=143","<1.5",3.37414342167348,8.92149156183421
+42,"female","asymptomatic",102,265,"<6.7mM","left ventricular hypertrophy",122,"no",0.6,"No narrowing","cleveland","<57","<143","<1.5",-6.06287367326447,3.73335257204621
+67,"female","non-anginal pain",115,564,"<6.7mM","left ventricular hypertrophy",160,"no",1.6,"No narrowing","cleveland",">=57",">=143",">=1.5",-6.21728902836079,3.14112861704838
+55,"male","asymptomatic",160,289,"<6.7mM","left ventricular hypertrophy",145,"yes",0.8,"Narrowing","cleveland","<57",">=143","<1.5",1.17457438444898,-2.58744121483328
+64,"male","asymptomatic",120,246,"<6.7mM","left ventricular hypertrophy",96,"yes",2.2,"Narrowing","cleveland",">=57","<143",">=1.5",1.56540182645595,-2.50468494477834
+70,"male","asymptomatic",130,322,"<6.7mM","left ventricular hypertrophy",109,"no",2.4,"Narrowing","cleveland",">=57","<143",">=1.5",2.00679438394622,-3.05351229230549
+51,"male","asymptomatic",140,299,"<6.7mM","normal",173,"yes",1.6,"Narrowing","cleveland","<57",">=143",">=1.5",0.255873502393214,-3.36780315361082
+58,"male","asymptomatic",125,300,"<6.7mM","left ventricular hypertrophy",171,"no",0,"Narrowing","cleveland",">=57",">=143","<1.5",2.08036871815923,-3.72833095884033
+60,"male","asymptomatic",140,293,"<6.7mM","left ventricular hypertrophy",170,"no",1.2,"Narrowing","cleveland",">=57",">=143","<1.5",2.10815584517125,-3.69738863769968
+68,"male","non-anginal pain",118,277,"<6.7mM","normal",151,"no",1,"No narrowing","cleveland",">=57",">=143","<1.5",4.56375795904161,-1.42924677930063
+46,"male","atypical angina",101,197,">6.7mM","normal",156,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",2.53181805159162,-6.23755271207869
+77,"male","asymptomatic",125,304,"<6.7mM","left ventricular hypertrophy",162,"yes",0,"Narrowing","cleveland",">=57",">=143","<1.5",1.69789556226209,-3.01149275784505
+54,"female","non-anginal pain",110,214,"<6.7mM","normal",158,"no",1.6,"No narrowing","cleveland","<57",">=143",">=1.5",-7.15845639608207,2.94015635020201
+58,"female","asymptomatic",100,248,"<6.7mM","left ventricular hypertrophy",122,"no",1,"No narrowing","cleveland",">=57","<143","<1.5",-6.03337936487689,3.77602533968606
+48,"male","non-anginal pain",124,255,">6.7mM","normal",175,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",3.59678735406755,-1.16666877400117
+57,"male","asymptomatic",132,207,"<6.7mM","normal",168,"yes",0,"No narrowing","cleveland",">=57",">=143","<1.5",1.17867294313491,-4.05411018244843
+52,"male","non-anginal pain",138,223,"<6.7mM","normal",169,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",4.82785310800839,-1.56420535381089
+54,"female","atypical angina",132,288,">6.7mM","left ventricular hypertrophy",159,"yes",0,"No narrowing","cleveland","<57",">=143","<1.5",-5.68353416425072,5.03173571529053
+35,"male","asymptomatic",126,282,"<6.7mM","left ventricular hypertrophy",156,"yes",0,"Narrowing","cleveland","<57",">=143","<1.5",1.51058681564744,-3.20438196578941
+45,"female","atypical angina",112,160,"<6.7mM","normal",138,"no",0,"No narrowing","cleveland","<57","<143","<1.5",-5.79909423152144,5.68827404804173
+70,"male","non-anginal pain",160,269,"<6.7mM","normal",112,"yes",2.9,"Narrowing","cleveland",">=57","<143",">=1.5",0.611512715078851,-3.01261827682831
+53,"male","asymptomatic",142,226,"<6.7mM","left ventricular hypertrophy",111,"yes",0,"No narrowing","cleveland","<57","<143","<1.5",1.01794989044409,-2.67942661528054
+59,"female","asymptomatic",174,249,"<6.7mM","normal",143,"yes",0,"Narrowing","cleveland",">=57",">=143","<1.5",-5.0129118607487,3.78289981869813
+62,"female","asymptomatic",140,394,"<6.7mM","left ventricular hypertrophy",157,"no",1.2,"No narrowing","cleveland",">=57",">=143","<1.5",-5.91771768540351,3.3965383116193
+64,"male","asymptomatic",145,212,"<6.7mM","left ventricular hypertrophy",132,"no",2,"Narrowing","cleveland",">=57","<143",">=1.5",2.17731615614868,-3.20868487435059
+57,"male","asymptomatic",152,274,"<6.7mM","normal",88,"yes",1.2,"Narrowing","cleveland",">=57","<143","<1.5",0.334734828108675,-3.34622939698594
+52,"male","asymptomatic",108,233,">6.7mM","normal",147,"no",0.1,"No narrowing","cleveland","<57",">=143","<1.5",1.79877668681166,-5.17179532216871
+56,"male","asymptomatic",132,184,"<6.7mM","left ventricular hypertrophy",105,"yes",2.1,"Narrowing","cleveland","<57","<143",">=1.5",1.51627623858032,-2.56664293807534
+43,"male","non-anginal pain",130,315,"<6.7mM","normal",162,"no",1.9,"No narrowing","cleveland","<57",">=143",">=1.5",4.58964829518403,-1.53445559604206
+53,"male","non-anginal pain",130,246,">6.7mM","left ventricular hypertrophy",173,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",3.54514194256387,-1.22333063692402
+48,"male","asymptomatic",124,274,"<6.7mM","left ventricular hypertrophy",166,"no",0.5,"Narrowing","cleveland","<57",">=143","<1.5",1.9743261258381,-3.74680462181602
+56,"female","asymptomatic",134,409,"<6.7mM","left ventricular hypertrophy",150,"yes",1.9,"Narrowing","cleveland","<57",">=143",">=1.5",-5.27406808983714,3.41477774969075
+42,"male","typical angina",148,244,"<6.7mM","left ventricular hypertrophy",178,"no",0.8,"No narrowing","cleveland","<57",">=143","<1.5",3.23257339478874,9.31574603816451
+59,"male","typical angina",178,270,"<6.7mM","left ventricular hypertrophy",145,"no",4.2,"No narrowing","cleveland",">=57",">=143",">=1.5",3.32431543587554,9.09124794700689
+60,"female","asymptomatic",158,305,"<6.7mM","left ventricular hypertrophy",161,"no",0,"Narrowing","cleveland",">=57",">=143","<1.5",-5.55422224796981,3.41420215768709
+63,"female","atypical angina",140,195,"<6.7mM","normal",179,"no",0,"No narrowing","cleveland",">=57",">=143","<1.5",-5.97180298697581,5.46386198005754
+42,"male","non-anginal pain",120,240,">6.7mM","normal",194,"no",0.8,"No narrowing","cleveland","<57",">=143","<1.5",3.6691051584086,-1.2679531368924
+66,"male","atypical angina",160,246,"<6.7mM","normal",120,"yes",0,"Narrowing","cleveland",">=57","<143","<1.5",0.799646571959023,-3.35108082561727
+54,"male","atypical angina",192,283,"<6.7mM","left ventricular hypertrophy",195,"no",0,"Narrowing","cleveland","<57",">=143","<1.5",2.44494935386913,-5.35180570790115
+69,"male","non-anginal pain",140,254,"<6.7mM","left ventricular hypertrophy",146,"no",2,"Narrowing","cleveland",">=57",">=143",">=1.5",4.1789420172818,-2.38956525469041
+50,"male","non-anginal pain",129,196,"<6.7mM","normal",163,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",4.85785829815166,-1.5165474986971
+51,"male","asymptomatic",140,298,"<6.7mM","normal",122,"yes",4.2,"Narrowing","cleveland","<57","<143",">=1.5",0.183258403827678,-3.07041298283197
+43,"male","asymptomatic",132,247,">6.7mM","left ventricular hypertrophy",143,"yes",0.1,"Narrowing","cleveland","<57",">=143","<1.5",0.984424185778284,-1.62777521566253
+62,"female","asymptomatic",138,294,">6.7mM","normal",106,"no",1.9,"Narrowing","cleveland",">=57","<143",">=1.5",-5.39343898215531,3.55540086849436
+68,"female","non-anginal pain",120,211,"<6.7mM","left ventricular hypertrophy",115,"no",1.5,"No narrowing","cleveland",">=57","<143",">=1.5",-6.58972387212988,2.66350585394746
+67,"male","asymptomatic",100,299,"<6.7mM","left ventricular hypertrophy",125,"yes",0.9,"Narrowing","cleveland",">=57","<143","<1.5",1.6876745920159,-2.98613693748303
+69,"male","typical angina",160,234,">6.7mM","left ventricular hypertrophy",131,"no",0.1,"No narrowing","cleveland",">=57","<143","<1.5",3.34063401223737,8.93322975597779
+45,"female","asymptomatic",138,236,"<6.7mM","left ventricular hypertrophy",152,"yes",0.2,"No narrowing","cleveland","<57",">=143","<1.5",-5.85577544879655,3.66558230619887
+50,"female","atypical angina",120,244,"<6.7mM","normal",162,"no",1.1,"No narrowing","cleveland","<57",">=143","<1.5",-5.95461402196256,5.45961047634174
+59,"male","typical angina",160,273,"<6.7mM","left ventricular hypertrophy",125,"no",0,"Narrowing","cleveland",">=57","<143","<1.5",3.2900070694416,9.10992934229725
+50,"female","asymptomatic",110,254,"<6.7mM","left ventricular hypertrophy",159,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",-6.02306381606686,3.8300795061299
+64,"female","asymptomatic",180,325,"<6.7mM","normal",154,"yes",0,"No narrowing","cleveland",">=57",">=143","<1.5",-5.12739372326913,3.7590950468941
+57,"male","non-anginal pain",150,126,">6.7mM","normal",173,"no",0.2,"No narrowing","cleveland",">=57",">=143","<1.5",3.63071985640979,-1.17411762601284
+64,"female","non-anginal pain",140,313,"<6.7mM","normal",133,"no",0.2,"No narrowing","cleveland",">=57","<143","<1.5",-6.84639035506146,2.97467691898086
+43,"male","asymptomatic",110,211,"<6.7mM","normal",161,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",1.52922570618789,-4.611699095521
+45,"male","asymptomatic",142,309,"<6.7mM","left ventricular hypertrophy",147,"yes",0,"Narrowing","cleveland","<57",">=143","<1.5",1.27576237876795,-2.96066558240169
+58,"male","asymptomatic",128,259,"<6.7mM","left ventricular hypertrophy",130,"yes",3,"Narrowing","cleveland",">=57","<143",">=1.5",1.53474538181563,-2.42613671156799
+50,"male","asymptomatic",144,200,"<6.7mM","left ventricular hypertrophy",126,"yes",0.9,"Narrowing","cleveland","<57","<143","<1.5",1.26697186527809,-2.51612136075098
+55,"male","atypical angina",130,262,"<6.7mM","normal",155,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",3.00792453117178,-5.7852991462124
+62,"female","asymptomatic",150,244,"<6.7mM","normal",154,"yes",1.4,"Narrowing","cleveland",">=57",">=143","<1.5",-5.12749648350862,3.78897279276491
+37,"female","non-anginal pain",120,215,"<6.7mM","normal",170,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",-7.38825157485037,2.87848400492544
+38,"male","typical angina",120,231,"<6.7mM","normal",182,"yes",3.8,"Narrowing","cleveland","<57",">=143",">=1.5",3.23666882933735,9.37021530887153
+41,"male","non-anginal pain",130,214,"<6.7mM","left ventricular hypertrophy",168,"no",2,"No narrowing","cleveland","<57",">=143",">=1.5",4.29379259333057,-1.81552375967297
+66,"female","asymptomatic",178,228,">6.7mM","normal",165,"yes",1,"Narrowing","cleveland",">=57",">=143","<1.5",-5.02169092332206,3.4091444418233
+52,"male","asymptomatic",112,230,"<6.7mM","normal",160,"no",0,"Narrowing","cleveland","<57",">=143","<1.5",1.18437827531982,-4.03612180306356
+56,"male","typical angina",120,193,"<6.7mM","left ventricular hypertrophy",162,"no",1.9,"No narrowing","cleveland","<57",">=143",">=1.5",3.22429936513911,9.36427584996094
+46,"female","atypical angina",105,204,"<6.7mM","normal",172,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",-5.94685617651619,5.5910113484746
+46,"female","asymptomatic",138,243,"<6.7mM","left ventricular hypertrophy",152,"yes",0,"No narrowing","cleveland","<57",">=143","<1.5",-5.88734830056858,3.5988027814285
+64,"female","asymptomatic",130,303,"<6.7mM","normal",122,"no",2,"No narrowing","cleveland",">=57","<143",">=1.5",-5.7605891265689,3.75756456446785
+59,"male","asymptomatic",138,271,"<6.7mM","left ventricular hypertrophy",182,"no",0,"No narrowing","cleveland",">=57",">=143","<1.5",2.1313394869751,-3.98889645759152
+41,"female","non-anginal pain",112,268,"<6.7mM","left ventricular hypertrophy",172,"yes",0,"No narrowing","cleveland","<57",">=143","<1.5",-6.38215415164795,2.69317067719541
+54,"female","non-anginal pain",108,267,"<6.7mM","left ventricular hypertrophy",167,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",-6.47410261689346,2.6616359709416
+39,"female","non-anginal pain",94,199,"<6.7mM","normal",179,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",-7.35891071409565,2.88557615039675
+53,"male","asymptomatic",123,282,"<6.7mM","normal",95,"yes",2,"Narrowing","cleveland","<57","<143",">=1.5",0.273364707286404,-3.30651555830447
+63,"female","asymptomatic",108,269,"<6.7mM","normal",169,"yes",1.8,"Narrowing","cleveland",">=57",">=143",">=1.5",-5.17299878353679,3.77044414705513
+34,"female","atypical angina",118,210,"<6.7mM","normal",192,"no",0.7,"No narrowing","cleveland","<57",">=143","<1.5",-5.98226723570576,5.55921880298937
+47,"male","asymptomatic",112,204,"<6.7mM","normal",143,"no",0.1,"No narrowing","cleveland","<57",">=143","<1.5",1.27842020009276,-4.63887583243858
+67,"female","non-anginal pain",152,277,"<6.7mM","normal",172,"no",0,"No narrowing","cleveland",">=57",">=143","<1.5",-6.87266112302879,2.94747144369253
+54,"male","asymptomatic",110,206,"<6.7mM","left ventricular hypertrophy",108,"yes",0,"Narrowing","cleveland","<57","<143","<1.5",1.47028077047226,-2.7673453482418
+66,"male","asymptomatic",112,212,"<6.7mM","left ventricular hypertrophy",132,"yes",0.1,"Narrowing","cleveland",">=57","<143","<1.5",1.58113108168674,-2.92188882950092
+52,"female","non-anginal pain",136,196,"<6.7mM","left ventricular hypertrophy",169,"no",0.1,"No narrowing","cleveland","<57",">=143","<1.5",-6.53650302877619,2.71186402772288
+55,"female","asymptomatic",180,327,"<6.7mM","ST-T wave abnormality",117,"yes",3.4,"Narrowing","cleveland","<57","<143",">=1.5",-2.13150315720178,1.63206138784421
+49,"male","non-anginal pain",118,149,"<6.7mM","left ventricular hypertrophy",126,"no",0.8,"Narrowing","cleveland","<57","<143","<1.5",4.42096232969445,-2.16392355483935
+74,"female","atypical angina",120,269,"<6.7mM","left ventricular hypertrophy",121,"yes",0.2,"No narrowing","cleveland",">=57","<143","<1.5",-5.71787787327897,4.88939436686556
+54,"female","non-anginal pain",160,201,"<6.7mM","normal",163,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",-7.02293125659885,2.97389692030901
+54,"male","asymptomatic",122,286,"<6.7mM","left ventricular hypertrophy",116,"yes",3.2,"Narrowing","cleveland","<57","<143",">=1.5",1.54570040069565,-2.40636689969976
+56,"male","asymptomatic",130,283,">6.7mM","left ventricular hypertrophy",103,"yes",1.6,"Narrowing","cleveland","<57","<143",">=1.5",0.965638991058968,-1.67975435041767
+46,"male","asymptomatic",120,249,"<6.7mM","left ventricular hypertrophy",144,"no",0.8,"Narrowing","cleveland","<57",">=143","<1.5",1.96815913102898,-3.65158438317324
+49,"female","atypical angina",134,271,"<6.7mM","normal",162,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",-5.99360752729647,5.40278155652225
+42,"male","atypical angina",120,295,"<6.7mM","normal",162,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",3.0490048769645,-6.00034768037952
+41,"male","atypical angina",110,235,"<6.7mM","normal",153,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",3.07152555259254,-6.042178101321
+41,"female","atypical angina",126,306,"<6.7mM","normal",163,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",-6.00614594298686,5.48829256905711
+49,"female","asymptomatic",130,269,"<6.7mM","normal",163,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",-5.94466179157087,4.24236364888579
+61,"male","typical angina",134,234,"<6.7mM","normal",145,"no",2.6,"Narrowing","cleveland",">=57",">=143",">=1.5",3.29491457627221,9.24359419846576
+60,"female","non-anginal pain",120,178,">6.7mM","normal",96,"no",0,"No narrowing","cleveland",">=57","<143","<1.5",-6.78119177423994,2.84494873927975
+67,"male","asymptomatic",120,237,"<6.7mM","normal",71,"no",1,"Narrowing","cleveland",">=57","<143","<1.5",0.536831987729582,-3.92105005399022
+58,"male","asymptomatic",100,234,"<6.7mM","normal",156,"no",0.1,"Narrowing","cleveland",">=57",">=143","<1.5",1.17160462687339,-4.12088378938055
+47,"male","asymptomatic",110,275,"<6.7mM","left ventricular hypertrophy",118,"yes",1,"Narrowing","cleveland","<57","<143","<1.5",1.54948894562087,-2.80821385777937
+52,"male","asymptomatic",125,212,"<6.7mM","normal",168,"no",1,"Narrowing","cleveland","<57",">=143","<1.5",1.23853511881008,-4.11733131890522
+62,"male","atypical angina",128,208,">6.7mM","left ventricular hypertrophy",140,"no",0,"No narrowing","cleveland",">=57","<143","<1.5",2.54191605532778,-6.26873345980973
+57,"male","asymptomatic",110,201,"<6.7mM","normal",126,"yes",1.5,"No narrowing","cleveland",">=57","<143",">=1.5",0.761336160257005,-3.60667582589242
+58,"male","asymptomatic",146,218,"<6.7mM","normal",105,"no",2,"Narrowing","cleveland",">=57","<143",">=1.5",0.448950307929761,-3.98069700664906
+64,"male","asymptomatic",128,263,"<6.7mM","normal",105,"yes",0.2,"No narrowing","cleveland",">=57","<143","<1.5",0.52377334995747,-3.55216205609779
+51,"female","non-anginal pain",120,295,"<6.7mM","left ventricular hypertrophy",157,"no",0.6,"No narrowing","cleveland","<57",">=143","<1.5",-6.58074557414417,2.74735721247971
+43,"male","asymptomatic",115,303,"<6.7mM","normal",181,"no",1.2,"No narrowing","cleveland","<57",">=143","<1.5",1.65036441199435,-4.5972294824
+42,"female","non-anginal pain",120,209,"<6.7mM","normal",173,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",-7.3213388133095,2.87486391569732
+67,"female","asymptomatic",106,223,"<6.7mM","normal",142,"no",0.3,"No narrowing","cleveland",">=57","<143","<1.5",-5.9700038955691,3.97912434661704
+76,"female","non-anginal pain",140,197,"<6.7mM","ST-T wave abnormality",116,"no",1.1,"No narrowing","cleveland",">=57","<143","<1.5",-6.46800149001989,2.7050089914742
+70,"male","atypical angina",156,245,"<6.7mM","left ventricular hypertrophy",143,"no",0,"No narrowing","cleveland",">=57",">=143","<1.5",2.59693524958855,-5.51933649671981
+57,"male","atypical angina",124,261,"<6.7mM","normal",141,"no",0.3,"Narrowing","cleveland",">=57","<143","<1.5",3.11939402748804,-5.60741753809514
+44,"female","non-anginal pain",118,242,"<6.7mM","normal",149,"no",0.3,"No narrowing","cleveland","<57",">=143","<1.5",-7.28429100531685,2.82851417085001
+58,"female","atypical angina",136,319,">6.7mM","left ventricular hypertrophy",152,"no",0,"Narrowing","cleveland",">=57",">=143","<1.5",-5.67942924255203,5.05233808629757
+60,"female","typical angina",150,240,"<6.7mM","normal",171,"no",0.9,"No narrowing","cleveland",">=57",">=143","<1.5",3.69573780756974,9.14833734315772
+44,"male","non-anginal pain",120,226,"<6.7mM","normal",169,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",4.92417906852256,-1.64029886156148
+61,"male","asymptomatic",138,166,"<6.7mM","left ventricular hypertrophy",125,"yes",3.6,"Narrowing","cleveland",">=57","<143",">=1.5",1.51615965590659,-2.44841556303867
+42,"male","asymptomatic",136,315,"<6.7mM","normal",125,"yes",1.8,"Narrowing","cleveland","<57","<143",">=1.5",-0.0585137835905623,-3.41078407759456
+52,"male","asymptomatic",128,204,">6.7mM","normal",156,"yes",1,"Narrowing","cleveland","<57",">=143","<1.5",0.847835598128864,-1.3731790609594
+59,"male","non-anginal pain",126,218,">6.7mM","normal",134,"no",2.2,"Narrowing","cleveland",">=57","<143",">=1.5",3.19217431532807,-1.25003741176076
+40,"male","asymptomatic",152,223,"<6.7mM","normal",181,"no",0,"Narrowing","cleveland","<57",">=143","<1.5",1.38242481938362,-4.35698297062191
+42,"male","non-anginal pain",130,180,"<6.7mM","normal",150,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",4.94719913393083,-1.39190574845471
+61,"male","asymptomatic",140,207,"<6.7mM","left ventricular hypertrophy",138,"yes",1.9,"Narrowing","cleveland",">=57","<143",">=1.5",1.58256910897342,-2.55301491027227
+66,"male","asymptomatic",160,228,"<6.7mM","left ventricular hypertrophy",138,"no",2.3,"No narrowing","cleveland",">=57","<143",">=1.5",2.1937417342168,-3.24337844851386
+46,"male","asymptomatic",140,311,"<6.7mM","normal",120,"yes",1.8,"Narrowing","cleveland","<57","<143",">=1.5",0.102194118275612,-3.31333262823858
+71,"female","asymptomatic",112,149,"<6.7mM","normal",125,"no",1.6,"No narrowing","cleveland",">=57","<143",">=1.5",-6.05142020210504,3.99521697692309
+59,"male","typical angina",134,204,"<6.7mM","normal",162,"no",0.8,"Narrowing","cleveland",">=57",">=143","<1.5",3.34721685730281,9.17131828027225
+64,"male","typical angina",170,227,"<6.7mM","left ventricular hypertrophy",155,"no",0.6,"No narrowing","cleveland",">=57",">=143","<1.5",3.28256634497894,9.00628577321785
+66,"female","non-anginal pain",146,278,"<6.7mM","left ventricular hypertrophy",152,"no",0,"No narrowing","cleveland",">=57",">=143","<1.5",-6.47660854916027,2.76967724496417
+39,"female","non-anginal pain",138,220,"<6.7mM","normal",152,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",-7.3956734312503,2.88578293470727
+57,"male","atypical angina",154,232,"<6.7mM","left ventricular hypertrophy",164,"no",0,"Narrowing","cleveland",">=57",">=143","<1.5",2.54286682398656,-5.39955884487699
+58,"female","asymptomatic",130,197,"<6.7mM","normal",131,"no",0.6,"No narrowing","cleveland",">=57","<143","<1.5",-5.97000013783638,3.97186276814249
+57,"male","asymptomatic",110,335,"<6.7mM","normal",143,"yes",3,"Narrowing","cleveland",">=57",">=143",">=1.5",0.293449833723405,-3.14855578069961
+47,"male","non-anginal pain",130,253,"<6.7mM","normal",179,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",4.80470224676174,-1.58744070704094
+55,"female","asymptomatic",128,205,"<6.7mM","ST-T wave abnormality",130,"yes",2,"Narrowing","cleveland","<57","<143",">=1.5",-2.22551532743004,1.75216839113136
+35,"male","atypical angina",122,192,"<6.7mM","normal",174,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",2.95102227526841,-6.2586627369906
+61,"male","asymptomatic",148,203,"<6.7mM","normal",161,"no",0,"Narrowing","cleveland",">=57",">=143","<1.5",1.21153047090296,-4.24281070989402
+58,"male","asymptomatic",114,318,"<6.7mM","ST-T wave abnormality",140,"no",4.4,"Narrowing","cleveland",">=57","<143",">=1.5",-0.602628884904966,0.484589733723597
+58,"female","asymptomatic",170,225,">6.7mM","left ventricular hypertrophy",146,"yes",2.8,"Narrowing","cleveland",">=57",">=143",">=1.5",-5.02592929518082,3.21580560812228
+58,"male","atypical angina",125,220,"<6.7mM","normal",144,"no",0.4,"No narrowing","cleveland",">=57",">=143","<1.5",3.01530753750773,-5.83394170971046
+56,"male","atypical angina",130,221,"<6.7mM","left ventricular hypertrophy",163,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",2.62572073534774,-5.59588084046237
+56,"male","atypical angina",120,240,"<6.7mM","normal",169,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",2.9832984953202,-5.82656653533976
+67,"male","non-anginal pain",152,212,"<6.7mM","left ventricular hypertrophy",150,"no",0.8,"Narrowing","cleveland",">=57",">=143","<1.5",4.23509234168493,-2.25058720873644
+55,"female","atypical angina",132,342,"<6.7mM","normal",166,"no",1.2,"No narrowing","cleveland","<57",">=143","<1.5",-5.97069149017427,5.30184950050555
+44,"male","asymptomatic",120,169,"<6.7mM","normal",144,"yes",2.8,"Narrowing","cleveland","<57",">=143",">=1.5",0.17525484878134,-3.31405747681143
+63,"male","asymptomatic",140,187,"<6.7mM","left ventricular hypertrophy",144,"yes",4,"Narrowing","cleveland",">=57",">=143",">=1.5",1.38297796942844,-2.41082425965549
+63,"female","asymptomatic",124,197,"<6.7mM","normal",136,"yes",0,"Narrowing","cleveland",">=57","<143","<1.5",-5.07234242859422,3.87030799027898
+41,"male","atypical angina",120,157,"<6.7mM","normal",182,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",2.8735092278285,-6.11856154527994
+59,"male","asymptomatic",164,176,">6.7mM","left ventricular hypertrophy",90,"no",1,"Narrowing","cleveland",">=57","<143","<1.5",1.18431272096946,-1.8736959108105
+57,"female","asymptomatic",140,241,"<6.7mM","normal",123,"yes",0.2,"Narrowing","cleveland",">=57","<143","<1.5",-5.06539401316797,3.81399807534594
+45,"male","typical angina",110,264,"<6.7mM","normal",132,"no",1.2,"Narrowing","cleveland","<57","<143","<1.5",3.33582339556714,9.38002189204177
+68,"male","asymptomatic",144,193,">6.7mM","normal",141,"no",3.4,"Narrowing","cleveland",">=57","<143",">=1.5",1.22684050929332,-1.60805464088665
+57,"male","asymptomatic",130,131,"<6.7mM","normal",115,"yes",1.2,"Narrowing","cleveland",">=57","<143","<1.5",0.806991482278433,-3.50194132980504
+57,"female","atypical angina",130,236,"<6.7mM","left ventricular hypertrophy",174,"no",0,"Narrowing","cleveland",">=57",">=143","<1.5",-5.85766483401402,5.18163283811268
+38,"male","non-anginal pain",138,175,"<6.7mM","normal",173,"no",0,"No narrowing","cleveland","<57",">=143","<1.5",5.01104310489599,-1.51834934909817
+28,"male","atypical angina",130,132,"<6.7mM","left ventricular hypertrophy",185,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",2.22086760405292,-7.43948120088994
+29,"male","atypical angina",120,243,"<6.7mM","normal",160,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",2.10966265776049,-7.62892546757262
+30,"female","typical angina",170,237,"<6.7mM","ST-T wave abnormality",170,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",3.5284135033676,9.42614602283948
+31,"female","atypical angina",100,219,"<6.7mM","ST-T wave abnormality",150,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-2.26687703908906,2.54057374983533
+32,"female","atypical angina",105,198,"<6.7mM","normal",165,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-6.04862090705106,5.93126231073045
+32,"male","atypical angina",110,225,"<6.7mM","normal",184,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",2.17433376792685,-7.63400912146442
+32,"male","atypical angina",125,254,"<6.7mM","normal",155,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",1.96515165863426,-7.75554966289712
+33,"male","non-anginal pain",120,298,"<6.7mM","normal",185,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",5.55237531898679,-0.760939573098811
+34,"female","atypical angina",130,161,"<6.7mM","normal",190,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-6.1384493549334,5.82515468650416
+34,"male","atypical angina",150,214,"<6.7mM","ST-T wave abnormality",168,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-1.3738276548357,1.81014972558531
+34,"male","atypical angina",98,220,"<6.7mM","normal",150,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",2.2038898539425,-7.7055678335222
+35,"female","typical angina",120,160,"<6.7mM","ST-T wave abnormality",185,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",3.60637877949304,9.48680436483139
+35,"female","asymptomatic",140,167,"<6.7mM","normal",150,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-5.9255611032047,4.65503171747553
+35,"male","atypical angina",120,308,"<6.7mM","left ventricular hypertrophy",180,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",1.98995055453825,-7.72017978190891
+35,"male","atypical angina",150,264,"<6.7mM","normal",168,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",1.90588970660104,-8.00290904953364
+36,"male","atypical angina",120,166,"<6.7mM","normal",180,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",2.23958899114871,-7.51058073144353
+36,"male","non-anginal pain",112,340,"<6.7mM","normal",184,"no",1,"No narrowing","hungarian","<57",">=143","<1.5",5.5408482107886,-0.808020968936602
+36,"male","non-anginal pain",130,209,"<6.7mM","normal",178,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",5.60480251223783,-0.89618587434079
+36,"male","non-anginal pain",150,160,"<6.7mM","normal",172,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",5.61253254146746,-0.989002041316523
+37,"female","atypical angina",120,260,"<6.7mM","normal",130,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-5.9774236477595,6.21730654377258
+37,"female","non-anginal pain",130,211,"<6.7mM","normal",142,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-7.40864696138823,3.20702412976713
+37,"female","asymptomatic",130,173,"<6.7mM","ST-T wave abnormality",184,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-2.24905160199374,2.47245727695719
+37,"male","atypical angina",130,283,"<6.7mM","ST-T wave abnormality",98,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-1.39178543241482,1.82263230385343
+37,"male","non-anginal pain",130,194,"<6.7mM","normal",150,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",5.5186616761109,-0.943212417803492
+37,"male","asymptomatic",120,223,"<6.7mM","normal",168,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",0.475171835668504,-5.53671508721948
+37,"male","asymptomatic",130,315,"<6.7mM","normal",158,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",0.25196247078095,-5.72351435087356
+38,"male","atypical angina",140,297,"<6.7mM","normal",150,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",1.92289623951845,-7.96514320959568
+38,"male","non-anginal pain",145,292,"<6.7mM","normal",130,"no",0,"No narrowing","hungarian","<57","<143","<1.5",5.66841470036977,-0.737810169905883
+39,"female","non-anginal pain",110,182,"<6.7mM","ST-T wave abnormality",180,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-2.30697484739647,2.39386898997776
+39,"male","atypical angina",120,200,"<6.7mM","normal",160,"yes",1,"No narrowing","hungarian","<57",">=143","<1.5",2.18792045359196,-8.04288385200885
+39,"male","atypical angina",120,204,"<6.7mM","normal",145,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",2.28200930986335,-7.81311712217281
+39,"male","atypical angina",190,241,"<6.7mM","normal",106,"no",0,"No narrowing","hungarian","<57","<143","<1.5",2.20861664895703,-8.15781108750923
+39,"male","non-anginal pain",120,339,"<6.7mM","normal",170,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",5.54826481715402,-0.738699084877981
+39,"male","non-anginal pain",160,147,">6.7mM","normal",160,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",5.4847696866336,-1.13701551584905
+39,"male","asymptomatic",110,273,"<6.7mM","normal",132,"no",0,"No narrowing","hungarian","<57","<143","<1.5",0.301202142318366,-5.63978847764211
+39,"male","asymptomatic",130,307,"<6.7mM","normal",140,"no",0,"No narrowing","hungarian","<57","<143","<1.5",0.245892730326157,-5.64792081520857
+40,"male","atypical angina",130,275,"<6.7mM","normal",150,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",2.01608260483779,-7.88957959518238
+40,"male","atypical angina",140,289,"<6.7mM","normal",172,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",1.90000960653502,-8.04549806654757
+40,"male","non-anginal pain",130,215,"<6.7mM","normal",138,"no",0,"No narrowing","hungarian","<57","<143","<1.5",5.50630965317984,-0.872855248226652
+40,"male","non-anginal pain",130,281,"<6.7mM","normal",167,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",5.6010655819612,-0.752901659752951
+41,"female","atypical angina",110,250,"<6.7mM","ST-T wave abnormality",142,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-2.28763716627198,2.51205974923244
+41,"female","atypical angina",125,184,"<6.7mM","normal",180,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-6.04274725563011,5.90876289575471
+41,"female","atypical angina",130,245,"<6.7mM","normal",150,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-6.08917317696825,6.09698633419245
+41,"male","atypical angina",120,291,"<6.7mM","ST-T wave abnormality",160,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-1.48095557145827,1.8958839924695
+41,"male","atypical angina",120,295,"<6.7mM","normal",170,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",1.8597559698231,-7.98203458704331
+41,"male","atypical angina",125,269,"<6.7mM","normal",144,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",1.85121883220876,-7.90959862511366
+41,"male","asymptomatic",112,250,"<6.7mM","normal",142,"no",0,"No narrowing","hungarian","<57","<143","<1.5",0.373340763386513,-5.60696499320789
+42,"female","non-anginal pain",115,211,"<6.7mM","ST-T wave abnormality",137,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-2.33657595168632,2.2760970637443
+42,"male","atypical angina",120,196,"<6.7mM","normal",150,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",2.21244312314376,-7.79863333109581
+42,"male","atypical angina",120,198,"<6.7mM","normal",155,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",2.27823256869166,-7.93447245886312
+42,"male","atypical angina",150,268,"<6.7mM","normal",136,"no",0,"No narrowing","hungarian","<57","<143","<1.5",2.09693800197917,-8.08867421845567
+42,"male","non-anginal pain",120,228,"<6.7mM","normal",152,"yes",1.5,"No narrowing","hungarian","<57",">=143",">=1.5",4.98625423651314,-0.836507763010963
+42,"male","non-anginal pain",160,147,"<6.7mM","normal",146,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",5.60319552739344,-0.964076674478703
+42,"male","asymptomatic",140,358,"<6.7mM","normal",170,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",0.185484296286686,-5.73402364293317
+43,"female","typical angina",100,223,"<6.7mM","normal",142,"no",0,"No narrowing","hungarian","<57","<143","<1.5",3.6991857979762,9.34076068462989
+43,"female","atypical angina",120,201,"<6.7mM","normal",165,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-6.02397494941088,6.0058420134772
+43,"female","atypical angina",120,215,"<6.7mM","ST-T wave abnormality",175,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-2.19441900995656,2.58328782392914
+43,"female","atypical angina",120,249,"<6.7mM","ST-T wave abnormality",176,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-2.21894357733861,2.5765402833799
+43,"female","atypical angina",120,266,"<6.7mM","normal",118,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-5.86181208640202,6.05269796094957
+43,"female","atypical angina",150,186,"<6.7mM","normal",154,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-5.96242324826665,6.06459347978241
+43,"male","atypical angina",142,207,"<6.7mM","normal",138,"no",0,"No narrowing","hungarian","<57","<143","<1.5",2.37543007397913,-8.14856955104527
+44,"female","asymptomatic",120,218,"<6.7mM","ST-T wave abnormality",115,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-2.20027490220553,2.39851167546627
+44,"male","atypical angina",120,184,"<6.7mM","normal",142,"no",1,"No narrowing","hungarian","<57","<143","<1.5",2.26180598277582,-7.9839621983584
+44,"male","atypical angina",130,215,"<6.7mM","normal",135,"no",0,"No narrowing","hungarian","<57","<143","<1.5",2.39613207195288,-8.08739774937262
+44,"male","asymptomatic",150,412,"<6.7mM","normal",170,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",0.114848875027863,-5.74991487951044
+45,"female","atypical angina",130,237,"<6.7mM","normal",170,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-6.00794627718978,6.06217546105926
+45,"female","asymptomatic",132,297,"<6.7mM","normal",144,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-5.86610988398581,4.54788030063085
+45,"male","atypical angina",140,224,">6.7mM","normal",122,"no",0,"No narrowing","hungarian","<57","<143","<1.5",2.67958751588267,-7.63618628836287
+45,"male","asymptomatic",120,225,"<6.7mM","normal",140,"no",0,"No narrowing","hungarian","<57","<143","<1.5",0.444936929717619,-5.49984496303727
+45,"male","asymptomatic",140,224,"<6.7mM","normal",144,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",0.439007126871988,-5.4192419670291
+46,"female","asymptomatic",130,238,"<6.7mM","normal",90,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-5.81153829502835,4.49334105118618
+46,"male","atypical angina",140,275,"<6.7mM","normal",165,"yes",0,"No narrowing","hungarian","<57",">=143","<1.5",1.90983965912273,-8.15935522704087
+46,"male","non-anginal pain",120,230,"<6.7mM","normal",150,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",5.40495383458359,-0.86062908385365
+46,"male","asymptomatic",110,238,"<6.7mM","ST-T wave abnormality",140,"yes",1,"No narrowing","hungarian","<57","<143","<1.5",-1.66984942971158,1.26536432439996
+46,"male","asymptomatic",110,240,"<6.7mM","ST-T wave abnormality",140,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-1.5157004699714,1.59766397572562
+46,"male","asymptomatic",180,280,"<6.7mM","ST-T wave abnormality",120,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-1.43986424458653,1.6076893431557
+47,"female","atypical angina",140,257,"<6.7mM","normal",135,"no",1,"No narrowing","hungarian","<57","<143","<1.5",-5.86637549548322,6.09680063760529
+47,"male","typical angina",110,249,"<6.7mM","normal",150,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",3.41214297477409,9.4492809202962
+47,"male","atypical angina",160,263,"<6.7mM","normal",174,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",1.99241765263078,-8.46500692064896
+47,"male","asymptomatic",140,276,">6.7mM","normal",125,"yes",0,"No narrowing","hungarian","<57","<143","<1.5",-0.508997233378653,-3.04034233020214
+48,"female","atypical angina",120,284,"<6.7mM","normal",120,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-5.83525936184389,6.15091740605274
+48,"female","non-anginal pain",120,195,"<6.7mM","normal",125,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-7.35804760297747,3.1015813234299
+48,"female","asymptomatic",108,163,"<6.7mM","normal",175,"no",2,"No narrowing","hungarian","<57",">=143",">=1.5",-5.88609035176493,4.69282198618408
+48,"female","asymptomatic",120,254,"<6.7mM","ST-T wave abnormality",110,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-2.23140813971007,2.31258682781222
+48,"female","asymptomatic",150,227,"<6.7mM","normal",130,"yes",1,"No narrowing","hungarian","<57","<143","<1.5",-5.4724458032875,4.34998306694065
+48,"male","atypical angina",130,245,"<6.7mM","normal",160,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",2.32996683597619,-8.21098082449
+48,"male","atypical angina",140,238,"<6.7mM","normal",118,"no",0,"No narrowing","hungarian","<57","<143","<1.5",2.47435568440107,-8.13060434730197
+48,"male","non-anginal pain",110,211,"<6.7mM","normal",138,"no",0,"No narrowing","hungarian","<57","<143","<1.5",5.26130519537604,-0.864047044263459
+49,"female","atypical angina",124,201,"<6.7mM","normal",164,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-6.03159257282631,6.14151640279436
+49,"female","non-anginal pain",130,207,"<6.7mM","ST-T wave abnormality",135,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-2.30124067583784,2.24718505214295
+49,"male","atypical angina",100,253,"<6.7mM","normal",174,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",2.31603048472522,-8.18024817524112
+49,"male","non-anginal pain",140,187,"<6.7mM","normal",172,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",5.47211840553691,-0.879978104815623
+50,"female","atypical angina",110,202,"<6.7mM","normal",145,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-5.90201636962354,6.13519286799287
+50,"female","asymptomatic",120,328,"<6.7mM","normal",110,"yes",1,"No narrowing","hungarian","<57","<143","<1.5",-5.48481019451608,4.36232313240102
+50,"male","atypical angina",120,168,"<6.7mM","normal",160,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",2.44829157542842,-8.26559125559109
+50,"male","atypical angina",140,216,"<6.7mM","normal",170,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",2.34418617206572,-8.38859004772106
+50,"male","atypical angina",170,209,"<6.7mM","ST-T wave abnormality",116,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-1.33885569318631,1.73342450643235
+50,"male","asymptomatic",140,129,"<6.7mM","normal",135,"no",0,"No narrowing","hungarian","<57","<143","<1.5",0.577909296243158,-5.33887551066416
+50,"male","asymptomatic",150,215,"<6.7mM","normal",140,"yes",0,"No narrowing","hungarian","<57","<143","<1.5",-0.486978772081705,-4.03237219592045
+51,"female","atypical angina",160,194,"<6.7mM","normal",170,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-5.99527360761844,6.01392267398021
+51,"female","non-anginal pain",110,190,"<6.7mM","normal",120,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-7.28127477113153,3.03299495346469
+51,"female","non-anginal pain",130,220,"<6.7mM","normal",160,"yes",2,"No narrowing","hungarian","<57",">=143",">=1.5",-7.0742952334384,3.42124010600234
+51,"female","non-anginal pain",150,200,"<6.7mM","normal",120,"no",0.5,"No narrowing","hungarian","<57","<143","<1.5",-7.433931977863,3.17148847981898
+51,"male","atypical angina",125,188,"<6.7mM","normal",145,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",2.54645674119966,-8.3058185898916
+51,"male","atypical angina",130,224,"<6.7mM","normal",150,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",2.55258238961568,-8.29911590360012
+51,"male","asymptomatic",130,179,"<6.7mM","normal",100,"no",0,"No narrowing","hungarian","<57","<143","<1.5",0.496628946156428,-5.35319757219854
+52,"female","atypical angina",120,210,"<6.7mM","normal",148,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-5.97841038831772,6.18147001747298
+52,"female","non-anginal pain",125,272,"<6.7mM","normal",139,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-7.37415930427498,3.14263366055679
+52,"female","asymptomatic",130,180,"<6.7mM","normal",140,"yes",1.5,"No narrowing","hungarian","<57","<143",">=1.5",-5.65871429056394,4.49046717935073
+52,"male","atypical angina",120,284,"<6.7mM","normal",118,"no",0,"No narrowing","hungarian","<57","<143","<1.5",2.67418578689915,-8.18972232202471
+52,"male","atypical angina",140,100,"<6.7mM","normal",138,"yes",0,"No narrowing","hungarian","<57","<143","<1.5",2.5353579112106,-8.28271009398176
+52,"male","atypical angina",160,196,"<6.7mM","normal",165,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",2.41099925185886,-8.40397932275473
+52,"male","non-anginal pain",140,259,"<6.7mM","ST-T wave abnormality",170,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-1.12366539123102,1.27054884752183
+53,"female","atypical angina",140,216,"<6.7mM","normal",142,"yes",2,"No narrowing","hungarian","<57","<143",">=1.5",-5.75405738130956,6.01357510838337
+53,"female","non-anginal pain",120,274,"<6.7mM","normal",130,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-7.38303289072713,3.13219818401758
+53,"male","atypical angina",140,320,"<6.7mM","normal",162,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",1.91930234091673,-8.56149345224147
+53,"male","non-anginal pain",120,195,"<6.7mM","normal",140,"no",0,"No narrowing","hungarian","<57","<143","<1.5",5.33213804856933,-0.859152734950303
+53,"male","asymptomatic",124,260,"<6.7mM","ST-T wave abnormality",112,"yes",3,"No narrowing","hungarian","<57","<143",">=1.5",-1.66419041344601,1.21856932188645
+53,"male","asymptomatic",130,182,"<6.7mM","normal",148,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",0.546766817806061,-5.36144280474912
+53,"male","asymptomatic",140,243,"<6.7mM","normal",155,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",0.549354687233065,-5.3736088249564
+54,"female","atypical angina",120,221,"<6.7mM","normal",138,"no",1,"No narrowing","hungarian","<57","<143","<1.5",-5.92974263422935,6.16445899897091
+54,"female","atypical angina",120,230,">6.7mM","normal",140,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-5.94740574114289,6.01509922036538
+54,"female","atypical angina",120,273,"<6.7mM","normal",150,"no",1.5,"No narrowing","hungarian","<57",">=143",">=1.5",-5.93409925116124,6.12371963226138
+54,"female","atypical angina",130,253,"<6.7mM","ST-T wave abnormality",155,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-2.24671167436625,2.54243723192928
+54,"female","atypical angina",150,230,"<6.7mM","normal",130,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-5.83391576012119,6.18692569575885
+54,"female","atypical angina",160,312,"<6.7mM","normal",130,"no",0,"No narrowing","hungarian","<57","<143","<1.5",-5.79278131495276,5.9625990417334
+54,"male","typical angina",120,171,"<6.7mM","normal",137,"no",2,"No narrowing","hungarian","<57","<143",">=1.5",3.34996961934479,9.37134571675075
+54,"male","atypical angina",110,208,"<6.7mM","normal",142,"no",0,"No narrowing","hungarian","<57","<143","<1.5",2.56035979043612,-8.37986271549386
+54,"male","atypical angina",120,238,"<6.7mM","normal",154,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",2.50801402308456,-8.3599028391523
+54,"male","atypical angina",120,246,"<6.7mM","normal",110,"no",0,"No narrowing","hungarian","<57","<143","<1.5",2.71458943940846,-8.14970085842278
+54,"male","atypical angina",160,195,"<6.7mM","ST-T wave abnormality",130,"no",1,"No narrowing","hungarian","<57","<143","<1.5",-1.34930776536678,1.72661892820991
+54,"male","atypical angina",160,305,"<6.7mM","normal",175,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",1.9644661715605,-8.51162504075093
+54,"male","non-anginal pain",120,217,"<6.7mM","normal",137,"no",0,"No narrowing","hungarian","<57","<143","<1.5",5.25454848162057,-0.831927187925009
+54,"male","asymptomatic",150,365,"<6.7mM","ST-T wave abnormality",134,"no",1,"No narrowing","hungarian","<57","<143","<1.5",-1.50001899381794,1.49473312522424
+55,"female","atypical angina",110,344,"<6.7mM","ST-T wave abnormality",160,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-2.3344071039116,2.56087280033427
+55,"female","atypical angina",122,320,"<6.7mM","normal",155,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-5.71699426210061,6.01395824722342
+55,"female","atypical angina",130,394,"<6.7mM","left ventricular hypertrophy",150,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",-5.72057074795014,5.79381755746328
+55,"male","atypical angina",120,256,">6.7mM","normal",137,"no",0,"No narrowing","hungarian","<57","<143","<1.5",2.66895621607989,-7.57218548370056
+55,"male","atypical angina",140,196,"<6.7mM","normal",150,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",2.67119325737999,-8.39437406284671
+55,"male","atypical angina",145,326,"<6.7mM","normal",155,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",1.90266002603503,-8.50902377328661
+55,"male","non-anginal pain",110,277,"<6.7mM","normal",160,"no",0,"No narrowing","hungarian","<57",">=143","<1.5",5.25905463071356,-0.772009958156088
+55,"male","non-anginal pain",120,220,"<6.7mM","left ventricular hypertrophy",134,"no",0,"No narrowing","hungarian","<57","<143","<1.5",5.14245368749923,-1.00035510812032
+55,"male","asymptomatic",120,270,"<6.7mM","normal",140,"no",0,"No narrowing","hungarian","<57","<143","<1.5",0.504259146849661,-5.4578381397743
+55,"male","asymptomatic",140,229,"<6.7mM","normal",110,"yes",0.5,"No narrowing","hungarian","<57","<143","<1.5",-0.575796354922954,-3.90616961104965
+56,"male","atypical angina",130,184,"<6.7mM","normal",100,"no",0,"No narrowing","hungarian","<57","<143","<1.5",2.6543974677091,-8.21412377098869
+56,"male","non-anginal pain",130,276,"<6.7mM","normal",128,"yes",1,"No narrowing","hungarian","<57","<143","<1.5",5.06752298092623,-0.792480340765573
+56,"male","asymptomatic",120,85,"<6.7mM","normal",140,"no",0,"No narrowing","hungarian","<57","<143","<1.5",0.616295382448995,-5.24937329032402
+57,"female","typical angina",130,308,"<6.7mM","normal",98,"no",1,"No narrowing","hungarian",">=57","<143","<1.5",3.77804711865995,9.28417406437103
+57,"female","asymptomatic",180,347,"<6.7mM","ST-T wave abnormality",126,"yes",0.8,"No narrowing","hungarian",">=57","<143","<1.5",-2.14481818077326,1.71943053647875
+57,"male","atypical angina",140,260,">6.7mM","normal",140,"no",0,"No narrowing","hungarian",">=57","<143","<1.5",2.74518324967664,-7.52701733860858
+58,"male","atypical angina",130,230,"<6.7mM","normal",150,"no",0,"No narrowing","hungarian",">=57",">=143","<1.5",2.57792228933293,-8.3978337696163
+58,"male","atypical angina",130,251,"<6.7mM","normal",110,"no",0,"No narrowing","hungarian",">=57","<143","<1.5",2.73624352045252,-8.15799531796644
+58,"male","non-anginal pain",140,179,"<6.7mM","normal",160,"no",0,"No narrowing","hungarian",">=57",">=143","<1.5",5.43379912356664,-0.65796756348419
+58,"male","asymptomatic",135,222,"<6.7mM","normal",100,"no",0,"No narrowing","hungarian",">=57","<143","<1.5",0.542559282384752,-5.27950556667619
+59,"female","atypical angina",130,188,"<6.7mM","normal",124,"no",1,"No narrowing","hungarian",">=57","<143","<1.5",-5.8855653409178,6.17707143446698
+59,"male","atypical angina",140,287,"<6.7mM","normal",150,"no",0,"No narrowing","hungarian",">=57",">=143","<1.5",2.21936712255634,-8.48303246226083
+59,"male","non-anginal pain",130,318,"<6.7mM","normal",120,"yes",1,"No narrowing","hungarian",">=57","<143","<1.5",5.03626688765691,-0.753561126578315
+59,"male","non-anginal pain",180,213,"<6.7mM","normal",100,"no",0,"No narrowing","hungarian",">=57","<143","<1.5",5.56500531370998,-0.914036692211623
+60,"male","non-anginal pain",120,246,"<6.7mM","left ventricular hypertrophy",135,"no",0,"No narrowing","hungarian",">=57","<143","<1.5",5.18042624980403,-1.0920868836923
+61,"female","asymptomatic",130,294,"<6.7mM","ST-T wave abnormality",120,"yes",1,"No narrowing","hungarian",">=57","<143","<1.5",-2.20848510903361,1.88781966724943
+61,"male","asymptomatic",125,292,"<6.7mM","ST-T wave abnormality",115,"yes",0,"No narrowing","hungarian",">=57","<143","<1.5",-1.75889334079209,1.37939056049128
+62,"female","typical angina",160,193,"<6.7mM","normal",116,"no",0,"No narrowing","hungarian",">=57","<143","<1.5",3.80305849237361,9.23387101326817
+62,"male","atypical angina",140,271,"<6.7mM","normal",152,"no",1,"No narrowing","hungarian",">=57",">=143","<1.5",2.38547504098777,-8.50037069550765
+31,"male","asymptomatic",120,270,"<6.7mM","normal",153,"yes",1.5,"Narrowing","hungarian","<57",">=143",">=1.5",-1.30391511277891,-3.93446207633536
+33,"female","asymptomatic",100,246,"<6.7mM","normal",150,"yes",1,"Narrowing","hungarian","<57",">=143","<1.5",-5.35383265759966,4.28405748534134
+34,"male","typical angina",140,156,"<6.7mM","normal",180,"no",0,"Narrowing","hungarian","<57",">=143","<1.5",3.44668550417562,9.48283528135255
+35,"male","atypical angina",110,257,"<6.7mM","normal",140,"no",0,"Narrowing","hungarian","<57","<143","<1.5",1.96294333078871,-7.57155284270395
+36,"male","atypical angina",120,267,"<6.7mM","normal",160,"no",3,"Narrowing","hungarian","<57",">=143",">=1.5",1.93652817637107,-7.4953664154321
+37,"male","asymptomatic",140,207,"<6.7mM","normal",130,"yes",1.5,"Narrowing","hungarian","<57","<143",">=1.5",-1.24004200084371,-3.81876355912918
+38,"male","asymptomatic",110,196,"<6.7mM","normal",166,"no",0,"Narrowing","hungarian","<57",">=143","<1.5",0.0634114561175653,-5.22066920428382
+38,"male","asymptomatic",120,282,"<6.7mM","normal",170,"no",0,"Narrowing","hungarian","<57",">=143","<1.5",0.0445345723754124,-5.23209969391356
+38,"male","asymptomatic",92,117,"<6.7mM","normal",134,"yes",2.5,"Narrowing","hungarian","<57","<143",">=1.5",-0.881924589301078,-3.91142410474308
+41,"male","asymptomatic",110,289,"<6.7mM","normal",170,"no",0,"Narrowing","hungarian","<57",">=143","<1.5",0.00938351167009965,-5.20649450686202
+43,"male","asymptomatic",150,247,"<6.7mM","normal",130,"yes",2,"Narrowing","hungarian","<57","<143",">=1.5",-1.26739600462271,-3.49010381310852
+46,"male","asymptomatic",110,202,"<6.7mM","normal",150,"yes",0,"Narrowing","hungarian","<57",">=143","<1.5",-1.03562096495124,-4.12361744899601
+46,"male","asymptomatic",118,186,"<6.7mM","normal",124,"no",0,"Narrowing","hungarian","<57","<143","<1.5",-0.0587146612745854,-4.92879453717283
+46,"male","asymptomatic",120,277,"<6.7mM","normal",125,"yes",1,"Narrowing","hungarian","<57","<143","<1.5",-1.27267477568103,-3.83618561156546
+47,"male","non-anginal pain",140,193,"<6.7mM","normal",145,"yes",1,"Narrowing","hungarian","<57",">=143","<1.5",4.88311877038602,-0.756744668499846
+47,"male","asymptomatic",150,226,"<6.7mM","normal",98,"yes",1.5,"Narrowing","hungarian","<57","<143",">=1.5",-1.09408676685512,-3.52217061634975
+48,"male","asymptomatic",106,263,">6.7mM","normal",110,"no",0,"Narrowing","hungarian","<57","<143","<1.5",0.0167931472845243,-4.80282356443892
+48,"male","asymptomatic",120,260,"<6.7mM","normal",115,"no",2,"Narrowing","hungarian","<57","<143",">=1.5",-0.151371158743558,-4.50814403131183
+48,"male","asymptomatic",160,268,"<6.7mM","normal",103,"yes",1,"Narrowing","hungarian","<57","<143","<1.5",-1.14141395665417,-3.45918978100492
+49,"female","non-anginal pain",160,180,"<6.7mM","normal",156,"no",1,"Narrowing","hungarian","<57",">=143","<1.5",-7.36106310895722,3.22632125642011
+49,"male","non-anginal pain",115,265,"<6.7mM","normal",175,"no",0,"Narrowing","hungarian","<57",">=143","<1.5",5.06363072811064,-0.892299210870826
+49,"male","asymptomatic",130,206,"<6.7mM","normal",170,"no",0,"Narrowing","hungarian","<57",">=143","<1.5",0.0588381349032759,-5.06972254771602
+50,"female","non-anginal pain",140,288,"<6.7mM","normal",140,"yes",0,"Narrowing","hungarian","<57","<143","<1.5",-7.09584576541169,3.48460351866379
+50,"male","asymptomatic",145,264,"<6.7mM","normal",150,"no",0,"Narrowing","hungarian","<57",">=143","<1.5",0.0601615343753214,-4.97614909032134
+51,"female","asymptomatic",160,303,"<6.7mM","normal",150,"yes",1,"Narrowing","hungarian","<57",">=143","<1.5",-5.13689781969968,4.09111001909614
+52,"male","asymptomatic",130,225,"<6.7mM","normal",120,"yes",2,"Narrowing","hungarian","<57","<143",">=1.5",-1.07698073133028,-3.68919844468154
+54,"male","asymptomatic",125,216,"<6.7mM","normal",140,"no",0,"Narrowing","hungarian","<57","<143","<1.5",0.0297749848608559,-4.9220388162578
+54,"male","asymptomatic",125,224,"<6.7mM","normal",122,"no",2,"Narrowing","hungarian","<57","<143",">=1.5",-0.11556673000206,-4.5445965651345
+55,"male","asymptomatic",140,201,"<6.7mM","normal",130,"yes",3,"Narrowing","hungarian","<57","<143",">=1.5",-1.09850217221815,-3.65533477423547
+57,"male","atypical angina",140,265,"<6.7mM","ST-T wave abnormality",145,"yes",1,"Narrowing","hungarian",">=57",">=143","<1.5",-1.63826218490464,1.26992049212944
+58,"male","non-anginal pain",130,213,"<6.7mM","ST-T wave abnormality",140,"no",0,"Narrowing","hungarian",">=57","<143","<1.5",-1.23239872150037,1.28728041068071
+59,"female","asymptomatic",130,338,">6.7mM","ST-T wave abnormality",130,"yes",1.5,"Narrowing","hungarian",">=57","<143",">=1.5",-2.21662602398808,1.82134696986506
+60,"male","asymptomatic",100,248,"<6.7mM","normal",125,"no",1,"Narrowing","hungarian",">=57","<143","<1.5",-0.038001185120706,-4.70015467152692
+63,"male","asymptomatic",150,223,"<6.7mM","normal",115,"no",0,"Narrowing","hungarian",">=57","<143","<1.5",0.0816899473869069,-4.82060942694466
+65,"male","asymptomatic",140,306,">6.7mM","normal",87,"yes",1.5,"Narrowing","hungarian",">=57","<143",">=1.5",-0.911784057975832,-2.97219291201463
+32,"male","asymptomatic",118,529,"<6.7mM","normal",130,"no",0,"Narrowing","hungarian","<57","<143","<1.5",-0.220815466694485,-5.61465637928801
+39,"male","asymptomatic",110,280,"<6.7mM","normal",150,"no",0,"Narrowing","hungarian","<57",">=143","<1.5",0.0315383867178353,-5.18026456833333
+40,"female","asymptomatic",150,392,"<6.7mM","normal",130,"no",2,"Narrowing","hungarian","<57","<143",">=1.5",-5.24955029472191,4.28485711015347
+43,"male","typical angina",120,291,"<6.7mM","ST-T wave abnormality",155,"no",0,"Narrowing","hungarian","<57",">=143","<1.5",3.38435913730882,9.49257789964835
+45,"male","asymptomatic",130,219,"<6.7mM","ST-T wave abnormality",130,"yes",1,"Narrowing","hungarian","<57","<143","<1.5",-1.72255725930543,1.22590732764442
+46,"male","asymptomatic",120,231,"<6.7mM","normal",115,"yes",0,"Narrowing","hungarian","<57","<143","<1.5",-1.05144186709304,-4.17536345303784
+46,"male","asymptomatic",130,222,"<6.7mM","normal",112,"no",0,"Narrowing","hungarian","<57","<143","<1.5",0.000175204591635003,-4.73619134911306
+48,"male","asymptomatic",122,275,">6.7mM","ST-T wave abnormality",150,"yes",2,"Narrowing","hungarian","<57",">=143",">=1.5",-1.8147637921993,1.17143062327046
+48,"male","asymptomatic",160,193,"<6.7mM","normal",102,"yes",3,"Narrowing","hungarian","<57","<143",">=1.5",-1.23453712936959,-3.35345909025938
+48,"male","asymptomatic",160,329,"<6.7mM","normal",92,"yes",1.5,"Narrowing","hungarian","<57","<143",">=1.5",-1.3970027824163,-3.40526849960921
+48,"male","asymptomatic",160,355,"<6.7mM","normal",99,"yes",2,"Narrowing","hungarian","<57","<143",">=1.5",-1.41105148174627,-3.46905092431475
+50,"male","asymptomatic",130,233,"<6.7mM","normal",121,"yes",2,"Narrowing","hungarian","<57","<143",">=1.5",-1.08271875294728,-3.78870264954403
+52,"male","asymptomatic",120,182,"<6.7mM","normal",150,"no",0,"Narrowing","hungarian","<57",">=143","<1.5",0.0497343700833494,-4.98931422922093
+53,"male","asymptomatic",120,246,"<6.7mM","normal",116,"yes",0,"Narrowing","hungarian","<57","<143","<1.5",-1.02795607597706,-4.12582280830859
+54,"male","non-anginal pain",120,237,"<6.7mM","normal",150,"yes",1.5,"Narrowing","hungarian","<57",">=143",">=1.5",4.90952231244141,-0.732255695737161
+54,"male","asymptomatic",130,242,"<6.7mM","normal",91,"yes",1,"Narrowing","hungarian","<57","<143","<1.5",-1.07108443294247,-3.78826714611502
+54,"male","asymptomatic",130,603,">6.7mM","normal",125,"yes",1,"Narrowing","hungarian","<57","<143","<1.5",-0.355489737166435,-5.55888019396625
+54,"male","asymptomatic",200,198,"<6.7mM","normal",142,"yes",2,"Narrowing","hungarian","<57","<143",">=1.5",-1.20243021791088,-3.40428156680375
+55,"male","asymptomatic",140,268,"<6.7mM","normal",128,"yes",1.5,"Narrowing","hungarian","<57","<143",">=1.5",-0.900723434271398,-3.52402943484473
+56,"male","asymptomatic",150,213,">6.7mM","normal",125,"yes",1,"Narrowing","hungarian","<57","<143","<1.5",-0.792905929219648,-2.93702584484577
+57,"male","asymptomatic",150,255,"<6.7mM","normal",92,"yes",3,"Narrowing","hungarian",">=57","<143",">=1.5",-1.2445474828457,-3.33915432821502
+58,"male","non-anginal pain",160,211,">6.7mM","ST-T wave abnormality",92,"no",0,"Narrowing","hungarian",">=57","<143","<1.5",-1.2363029689938,1.33675254194483
+58,"male","asymptomatic",130,263,"<6.7mM","normal",140,"yes",2,"Narrowing","hungarian",">=57","<143",">=1.5",-1.02611638255507,-3.56874686845633
+41,"male","asymptomatic",130,172,"<6.7mM","ST-T wave abnormality",130,"no",2,"Narrowing","hungarian","<57","<143",">=1.5",-1.60826369428222,1.2710341510032
+43,"male","asymptomatic",120,175,"<6.7mM","normal",120,"yes",1,"Narrowing","hungarian","<57","<143","<1.5",-0.942947065110815,-4.10893952829459
+44,"male","atypical angina",150,288,"<6.7mM","normal",150,"yes",3,"Narrowing","hungarian","<57",">=143",">=1.5",-1.27702608897454,-3.53378074283987
+44,"male","asymptomatic",130,290,"<6.7mM","normal",100,"yes",2,"Narrowing","hungarian","<57","<143",">=1.5",-1.45961267731673,-3.64807427870155
+46,"male","typical angina",140,272,">6.7mM","normal",175,"no",2,"Narrowing","hungarian","<57",">=143",">=1.5",3.21408075766007,9.12239266189813
+47,"female","non-anginal pain",135,248,">6.7mM","normal",170,"no",0,"Narrowing","hungarian","<57",">=143","<1.5",-7.27494867400009,3.18607663967178
+48,"female","asymptomatic",138,214,"<6.7mM","normal",108,"yes",1.5,"Narrowing","hungarian","<57","<143",">=1.5",-5.29636775415661,4.18757178555177
+49,"male","asymptomatic",130,341,"<6.7mM","normal",120,"yes",1,"Narrowing","hungarian","<57","<143","<1.5",-1.39896050529008,-3.81885708689296
+49,"male","asymptomatic",140,234,"<6.7mM","normal",140,"yes",1,"Narrowing","hungarian","<57","<143","<1.5",-1.11919444240221,-3.69591194245963
+51,"male","non-anginal pain",135,160,"<6.7mM","normal",150,"no",2,"Narrowing","hungarian","<57",">=143",">=1.5",4.91538692041256,-0.770868405811443
+52,"male","asymptomatic",112,342,"<6.7mM","ST-T wave abnormality",96,"yes",1,"Narrowing","hungarian","<57","<143","<1.5",-1.79399488243638,1.32027196622396
+52,"male","asymptomatic",130,298,"<6.7mM","normal",110,"yes",1,"Narrowing","hungarian","<57","<143","<1.5",-1.22379002217794,-3.87832817753799
+52,"male","asymptomatic",140,404,"<6.7mM","normal",124,"yes",2,"Narrowing","hungarian","<57","<143",">=1.5",-1.47673516760569,-3.69461977184049
+52,"male","asymptomatic",160,246,"<6.7mM","ST-T wave abnormality",82,"yes",4,"Narrowing","hungarian","<57","<143",">=1.5",-1.64401158375341,1.21245436962858
+53,"male","non-anginal pain",145,518,"<6.7mM","normal",130,"no",0,"Narrowing","hungarian","<57","<143","<1.5",-0.272004338436568,-5.63414016691537
+53,"male","asymptomatic",180,285,"<6.7mM","ST-T wave abnormality",120,"yes",1.5,"Narrowing","hungarian","<57","<143",">=1.5",-1.80950085516209,1.18948525557185
+54,"male","asymptomatic",140,216,"<6.7mM","normal",105,"no",1.5,"Narrowing","hungarian","<57","<143",">=1.5",-0.0236902403339482,-4.58935015254194
+55,"male","atypical angina",160,292,">6.7mM","normal",143,"yes",2,"Narrowing","hungarian","<57",">=143",">=1.5",-0.958370080065727,-3.01324474223964
+55,"male","asymptomatic",145,248,"<6.7mM","normal",96,"yes",2,"Narrowing","hungarian","<57","<143",">=1.5",-1.08212375365467,-3.46143784610741
+56,"female","atypical angina",120,279,"<6.7mM","normal",150,"no",1,"Narrowing","hungarian","<57",">=143","<1.5",-5.86726575300132,6.13521576105828
+56,"male","asymptomatic",150,230,"<6.7mM","ST-T wave abnormality",124,"yes",1.5,"Narrowing","hungarian","<57","<143",">=1.5",-1.68909855589099,1.25310120278869
+56,"male","asymptomatic",170,388,"<6.7mM","ST-T wave abnormality",122,"yes",2,"Narrowing","hungarian","<57","<143",">=1.5",-1.84455363101198,1.06846716097023
+58,"male","atypical angina",136,164,"<6.7mM","ST-T wave abnormality",99,"yes",2,"Narrowing","hungarian",">=57","<143",">=1.5",-1.64113974196905,1.2805845912786
+59,"male","asymptomatic",140,264,">6.7mM","left ventricular hypertrophy",119,"yes",0,"Narrowing","hungarian",">=57","<143","<1.5",0.770973214777814,-1.7258548847482
+65,"male","asymptomatic",170,263,">6.7mM","normal",112,"yes",2,"Narrowing","hungarian",">=57","<143",">=1.5",-0.952423860822593,-3.00552897996755
+41,"male","asymptomatic",120,336,"<6.7mM","normal",118,"yes",3,"Narrowing","hungarian","<57","<143",">=1.5",-1.56795309581649,-3.70073850151739
+43,"male","asymptomatic",140,288,"<6.7mM","normal",135,"yes",2,"Narrowing","hungarian","<57","<143",">=1.5",-1.27875381307299,-3.6556155497679
+44,"male","asymptomatic",135,491,"<6.7mM","normal",135,"no",0,"Narrowing","hungarian","<57","<143","<1.5",-0.173968861704307,-5.67209108600072
+47,"female","asymptomatic",120,205,"<6.7mM","normal",98,"yes",2,"Narrowing","hungarian","<57","<143",">=1.5",-5.36544922710579,4.29909643811553
+47,"male","asymptomatic",160,291,"<6.7mM","ST-T wave abnormality",158,"yes",3,"Narrowing","hungarian","<57",">=143",">=1.5",-1.64623031612911,1.11999565241847
+49,"male","asymptomatic",128,212,"<6.7mM","normal",96,"yes",0,"Narrowing","hungarian","<57","<143","<1.5",-1.07979843211034,-4.14871912225334
+49,"male","asymptomatic",150,222,"<6.7mM","normal",122,"no",2,"Narrowing","hungarian","<57","<143",">=1.5",-0.159498630562341,-4.44225315734382
+50,"male","asymptomatic",140,231,"<6.7mM","ST-T wave abnormality",140,"yes",5,"Narrowing","hungarian","<57","<143",">=1.5",-1.55074870723311,1.1963209904983
+50,"male","asymptomatic",140,341,"<6.7mM","ST-T wave abnormality",125,"yes",2.5,"Narrowing","hungarian","<57","<143",">=1.5",-1.74853062712071,1.11807391088257
+52,"male","asymptomatic",140,266,"<6.7mM","normal",134,"yes",2,"Narrowing","hungarian","<57","<143",">=1.5",-1.04218082833083,-3.53014865059015
+52,"male","asymptomatic",160,331,"<6.7mM","normal",94,"yes",2.5,"Narrowing","hungarian","<57","<143",">=1.5",-1.43427963012635,-3.41946430412078
+54,"female","non-anginal pain",130,294,"<6.7mM","ST-T wave abnormality",100,"yes",0,"Narrowing","hungarian","<57","<143","<1.5",-2.20658484663451,1.88733558643337
+56,"male","asymptomatic",155,342,">6.7mM","normal",150,"yes",3,"Narrowing","hungarian","<57",">=143",">=1.5",-0.953132325977836,-3.00951890597159
+58,"female","atypical angina",180,393,"<6.7mM","normal",110,"yes",1,"Narrowing","hungarian",">=57","<143","<1.5",-5.07498394017017,4.26001309191207
+65,"male","asymptomatic",130,275,"<6.7mM","ST-T wave abnormality",115,"yes",1,"Narrowing","hungarian",">=57","<143","<1.5",-1.71756879766879,1.27206900246672
+63,"male","asymptomatic",140,260,"<6.7mM","ST-T wave abnormality",112,"yes",3,"Narrowing","va",">=57","<143",">=1.5",3.7670631213632,4.25327342821876
+44,"male","asymptomatic",130,209,"<6.7mM","ST-T wave abnormality",127,"no",0,"No narrowing","va","<57","<143","<1.5",3.3932691128471,4.77105913849708
+60,"male","asymptomatic",132,218,"<6.7mM","ST-T wave abnormality",140,"yes",1.5,"Narrowing","va",">=57","<143",">=1.5",3.80220630540268,4.24114058818273
+55,"male","asymptomatic",142,228,"<6.7mM","ST-T wave abnormality",149,"yes",2.5,"Narrowing","va","<57",">=143",">=1.5",3.8755387195579,4.22551618214668
+66,"male","non-anginal pain",110,213,">6.7mM","left ventricular hypertrophy",99,"yes",1.3,"No narrowing","va",">=57","<143","<1.5",1.4517975613075,3.97279751576023
+65,"male","asymptomatic",150,236,">6.7mM","ST-T wave abnormality",105,"yes",0,"Narrowing","va",">=57","<143","<1.5",3.00576544383496,4.2421594777262
+60,"male","atypical angina",160,267,">6.7mM","ST-T wave abnormality",157,"no",0.5,"Narrowing","va",">=57",">=143","<1.5",2.87622067725341,4.17615473550786
+56,"male","atypical angina",126,166,"<6.7mM","ST-T wave abnormality",140,"no",0,"No narrowing","va","<57","<143","<1.5",3.42311912337887,4.76976977403771
+62,"male","asymptomatic",120,220,"<6.7mM","ST-T wave abnormality",86,"no",0,"No narrowing","va",">=57","<143","<1.5",3.36498339126722,4.72215696062828
+63,"male","asymptomatic",170,177,"<6.7mM","normal",84,"yes",2.5,"Narrowing","va",">=57","<143",">=1.5",0.511889010369135,4.81112448440684
+46,"male","asymptomatic",110,236,"<6.7mM","normal",125,"yes",2,"Narrowing","va","<57","<143",">=1.5",0.541073289536245,4.47992429199773
+60,"male","asymptomatic",130,186,">6.7mM","ST-T wave abnormality",140,"yes",0.5,"Narrowing","va",">=57","<143","<1.5",2.90081672202475,4.1976595231679
+56,"male","asymptomatic",120,100,"<6.7mM","normal",120,"yes",1.5,"Narrowing","va","<57","<143",">=1.5",0.425718461341134,4.56701543556181
+77,"male","asymptomatic",124,171,"<6.7mM","ST-T wave abnormality",110,"yes",2,"Narrowing","va",">=57","<143",">=1.5",3.83084309474513,4.22136685270125
+63,"male","asymptomatic",160,230,">6.7mM","normal",105,"yes",1,"Narrowing","va",">=57","<143","<1.5",1.47768069735413,4.23933075846375
+59,"male","asymptomatic",122,233,"<6.7mM","normal",117,"yes",1.3,"Narrowing","va",">=57","<143","<1.5",0.543735408467463,4.4914662362328
+62,"male","asymptomatic",152,153,"<6.7mM","ST-T wave abnormality",97,"yes",1.6,"Narrowing","va",">=57","<143",">=1.5",3.89678795844506,4.37812435808518
+56,"male","atypical angina",124,224,">6.7mM","normal",161,"no",2,"No narrowing","va","<57",">=143",">=1.5",2.61707733941186,-6.34855112292673
+67,"male","typical angina",142,270,">6.7mM","normal",125,"no",2.5,"Narrowing","va",">=57","<143",">=1.5",3.35433461540207,8.81859228540715
+57,"male","asymptomatic",140,214,"<6.7mM","ST-T wave abnormality",144,"yes",2,"Narrowing","va",">=57",">=143",">=1.5",3.81241107524479,4.34696513565986
+54,"male","asymptomatic",136,220,"<6.7mM","normal",140,"yes",3,"Narrowing","va","<57","<143",">=1.5",0.536629949004494,4.71182989511684
+72,"male","non-anginal pain",120,214,"<6.7mM","normal",102,"yes",1,"Narrowing","va",">=57","<143","<1.5",0.356390471751175,4.34406960772464
+75,"male","asymptomatic",170,203,">6.7mM","ST-T wave abnormality",108,"no",0,"Narrowing","va",">=57","<143","<1.5",2.94462497923914,4.18902450741657
+60,"male","asymptomatic",142,216,"<6.7mM","normal",110,"yes",2.5,"Narrowing","va",">=57","<143",">=1.5",0.490734860403203,4.76513475281236
+64,"female","asymptomatic",142,276,"<6.7mM","normal",140,"yes",1,"Narrowing","va",">=57","<143","<1.5",-4.8214898419997,3.96351654095459
+58,"male","asymptomatic",132,458,">6.7mM","normal",69,"no",1,"No narrowing","va",">=57","<143","<1.5",1.23480117817863,4.29321777511535
+61,"male","asymptomatic",146,241,"<6.7mM","normal",148,"yes",3,"Narrowing","va",">=57",">=143",">=1.5",0.591215567837263,4.73572984502652
+67,"male","asymptomatic",160,384,">6.7mM","ST-T wave abnormality",130,"yes",0,"Narrowing","va",">=57","<143","<1.5",2.97210279197279,4.15689089892184
+62,"male","asymptomatic",135,297,"<6.7mM","normal",130,"yes",1,"Narrowing","va",">=57","<143","<1.5",0.674105422888427,4.48356957009159
+65,"male","asymptomatic",136,248,"<6.7mM","normal",140,"yes",4,"Narrowing","va",">=57","<143",">=1.5",0.575223639886789,4.83508050386808
+63,"male","asymptomatic",130,308,"<6.7mM","normal",138,"yes",2,"Narrowing","va",">=57","<143",">=1.5",0.613491000747675,4.57518981095133
+69,"male","asymptomatic",140,208,"<6.7mM","ST-T wave abnormality",140,"yes",2,"Narrowing","va",">=57","<143",">=1.5",3.9282935248338,4.31628657606878
+62,"male","asymptomatic",158,210,">6.7mM","normal",112,"yes",3,"Narrowing","va",">=57","<143",">=1.5",1.33201133070798,4.37194522600413
+75,"male","asymptomatic",136,225,"<6.7mM","normal",112,"yes",3,"Narrowing","va",">=57","<143",">=1.5",0.532292898867855,4.89429402957033
+40,"male","non-anginal pain",106,240,"<6.7mM","normal",80,"yes",0,"No narrowing","va","<57","<143","<1.5",0.246260922460545,4.26667168983577
+58,"male","asymptomatic",110,198,"<6.7mM","normal",110,"no",0,"Narrowing","va",">=57","<143","<1.5",0.793298817941063,4.09791839100518
+63,"male","asymptomatic",160,267,">6.7mM","ST-T wave abnormality",88,"yes",2,"Narrowing","va",">=57","<143",">=1.5",2.9820485820125,4.14829065956229
+68,"male","non-anginal pain",150,195,">6.7mM","normal",132,"no",0,"Narrowing","va",">=57","<143","<1.5",1.50757381288353,3.88961803368186
+65,"male","asymptomatic",150,235,"<6.7mM","normal",120,"yes",1.5,"Narrowing","va",">=57","<143",">=1.5",0.47717668975933,4.82963149020366
+63,"male","asymptomatic",96,305,"<6.7mM","ST-T wave abnormality",121,"yes",1,"Narrowing","va",">=57","<143","<1.5",3.87225973895163,4.37660158260922
+64,"male","asymptomatic",130,223,"<6.7mM","ST-T wave abnormality",128,"no",0.5,"No narrowing","va",">=57","<143","<1.5",3.41464169062765,4.7329812804258
+61,"male","asymptomatic",120,282,"<6.7mM","ST-T wave abnormality",135,"yes",4,"Narrowing","va",">=57","<143",">=1.5",3.71608902834932,4.1597852858322
+50,"male","asymptomatic",144,349,"<6.7mM","left ventricular hypertrophy",120,"yes",1,"Narrowing","va","<57","<143","<1.5",0.59482308984615,4.26649749479722
+55,"male","asymptomatic",150,160,"<6.7mM","ST-T wave abnormality",150,"no",0,"No narrowing","va","<57",">=143","<1.5",3.45137814262598,4.75277749534265
+55,"male","asymptomatic",116,186,">6.7mM","ST-T wave abnormality",102,"no",0,"Narrowing","va","<57","<143","<1.5",2.71662293727333,4.29151647207008
+63,"male","asymptomatic",110,252,"<6.7mM","ST-T wave abnormality",140,"yes",2,"Narrowing","va",">=57","<143",">=1.5",3.83268770958792,4.2356671771986
+59,"male","asymptomatic",125,222,"<6.7mM","normal",135,"yes",2.5,"Narrowing","va",">=57","<143",">=1.5",0.61780706242045,4.65913761265388
+74,"male","asymptomatic",150,258,">6.7mM","ST-T wave abnormality",130,"yes",4,"Narrowing","va",">=57","<143",">=1.5",3.14547218117603,4.14569328179023
+54,"male","asymptomatic",130,202,">6.7mM","normal",112,"yes",2,"Narrowing","va","<57","<143",">=1.5",1.46337293446028,4.23402289785789
+57,"male","asymptomatic",110,197,"<6.7mM","left ventricular hypertrophy",100,"no",0,"No narrowing","va",">=57","<143","<1.5",0.776604151537222,3.91366492713432
+54,"female","asymptomatic",138,274,"<6.7mM","normal",105,"yes",1.5,"Narrowing","va","<57","<143",">=1.5",-4.59957713914147,4.08845895626911
+70,"male","asymptomatic",170,192,"<6.7mM","ST-T wave abnormality",129,"yes",3,"Narrowing","va",">=57","<143",">=1.5",3.91656812530883,4.34194715234774
+61,"female","atypical angina",140,298,">6.7mM","normal",120,"yes",0,"No narrowing","va",">=57","<143","<1.5",-5.56266643643411,4.87709586317385
+48,"male","non-anginal pain",132,220,">6.7mM","ST-T wave abnormality",162,"no",0,"Narrowing","va","<57",">=143","<1.5",2.82297925379521,4.23335873879456
+61,"male","typical angina",142,200,">6.7mM","ST-T wave abnormality",100,"no",1.5,"Narrowing","va",">=57","<143",">=1.5",3.32588789108915,8.59424067647408
+66,"male","asymptomatic",112,261,"<6.7mM","normal",140,"no",1.5,"Narrowing","va",">=57","<143",">=1.5",0.755285098915268,4.23196504919919
+55,"male","asymptomatic",172,260,"<6.7mM","normal",73,"no",2,"Narrowing","va","<57","<143",">=1.5",0.628333857035239,4.82416519636566
+62,"male","non-anginal pain",120,220,"<6.7mM","left ventricular hypertrophy",86,"no",0,"No narrowing","va",">=57","<143","<1.5",0.789280725107365,3.94225722207729
+58,"male","non-anginal pain",150,219,"<6.7mM","ST-T wave abnormality",118,"yes",0,"Narrowing","va",">=57","<143","<1.5",3.93167729782618,4.43781116230322
+75,"male","asymptomatic",160,310,">6.7mM","normal",112,"yes",2,"No narrowing","va",">=57","<143",">=1.5",1.305578808261,4.31921504070412
+64,"male","asymptomatic",134,273,"<6.7mM","normal",102,"yes",4,"Narrowing","va",">=57","<143",">=1.5",0.497331157439128,4.87946800888678
+59,"male","asymptomatic",140,274,"<6.7mM","normal",154,"yes",2,"No narrowing","va",">=57",">=143",">=1.5",0.717296194970295,4.52056877263992
+57,"male","asymptomatic",144,270,">6.7mM","ST-T wave abnormality",160,"yes",2,"Narrowing","va",">=57",">=143",">=1.5",3.13458855406691,4.05958162089083
+41,"male","asymptomatic",150,171,"<6.7mM","normal",128,"yes",1.5,"No narrowing","va","<57","<143",">=1.5",0.433217424255396,4.57262346510212
+71,"male","asymptomatic",130,221,"<6.7mM","ST-T wave abnormality",115,"yes",0,"Narrowing","va",">=57","<143","<1.5",3.82563204042227,4.40641280410191
+38,"male","asymptomatic",110,289,"<6.7mM","normal",105,"yes",1.5,"Narrowing","va","<57","<143",">=1.5",0.437663886663071,4.46233312554827
+55,"male","asymptomatic",158,217,"<6.7mM","normal",110,"yes",2.5,"Narrowing","va","<57","<143",">=1.5",0.400681979916351,4.90317106073024
+56,"male","asymptomatic",128,223,"<6.7mM","ST-T wave abnormality",119,"yes",2,"Narrowing","va","<57","<143",">=1.5",3.63350689996928,4.25234641427931
+64,"male","asymptomatic",150,193,"<6.7mM","ST-T wave abnormality",135,"yes",0.5,"Narrowing","va",">=57","<143","<1.5",3.97988108364043,4.41059633189456
+57,"male","asymptomatic",156,173,"<6.7mM","left ventricular hypertrophy",119,"yes",3,"Narrowing","va",">=57","<143",">=1.5",0.355400364786035,4.91870915644011
+69,"male","asymptomatic",122,216,">6.7mM","left ventricular hypertrophy",84,"yes",0,"Narrowing","va",">=57","<143","<1.5",1.74262989150086,4.14417949366381
+57,"male","atypical angina",180,285,">6.7mM","ST-T wave abnormality",120,"no",0.8,"Narrowing","va",">=57","<143","<1.5",2.82882195364793,4.09988697945986
+53,"male","asymptomatic",124,243,"<6.7mM","normal",122,"yes",2,"Narrowing","va","<57","<143",">=1.5",0.658333274293696,4.33733880674606
+37,"male","non-anginal pain",118,240,"<6.7mM","left ventricular hypertrophy",165,"no",1,"No narrowing","va","<57",">=143","<1.5",4.42180889250827,-1.58805291811908
+67,"male","asymptomatic",140,219,"<6.7mM","ST-T wave abnormality",122,"yes",2,"Narrowing","va",">=57","<143",">=1.5",3.71989417186494,4.27550152751441
+74,"male","non-anginal pain",140,237,">6.7mM","normal",94,"no",0,"Narrowing","va",">=57","<143","<1.5",1.37676362324912,3.96016716205193
+58,"male","asymptomatic",100,213,"<6.7mM","ST-T wave abnormality",110,"no",0,"No narrowing","va",">=57","<143","<1.5",3.38478013884442,4.75542619018721
+61,"male","asymptomatic",190,287,">6.7mM","left ventricular hypertrophy",150,"yes",2,"Narrowing","va",">=57",">=143",">=1.5",1.8553890554793,4.20724134674027
+64,"male","asymptomatic",130,258,">6.7mM","left ventricular hypertrophy",130,"no",0,"Narrowing","va",">=57","<143","<1.5",1.75759562350683,4.13412881159823
+58,"male","asymptomatic",160,256,">6.7mM","left ventricular hypertrophy",113,"yes",1,"Narrowing","va",">=57","<143","<1.5",1.84124601518404,4.21446956752912
+60,"male","asymptomatic",130,186,">6.7mM","left ventricular hypertrophy",140,"yes",0.5,"Narrowing","va",">=57","<143","<1.5",1.84216638907696,4.17993358946745
+57,"male","asymptomatic",122,264,"<6.7mM","left ventricular hypertrophy",100,"no",0,"Narrowing","va",">=57","<143","<1.5",0.74628214428486,4.11998043268966
+55,"male","asymptomatic",120,226,"<6.7mM","left ventricular hypertrophy",127,"yes",1.7,"Narrowing","va","<57","<143",">=1.5",0.670402190784381,4.31613530185074
+56,"male","asymptomatic",130,203,">6.7mM","normal",98,"no",1.5,"Narrowing","va","<57","<143",">=1.5",1.57932253223637,4.11410741495142
+57,"male","asymptomatic",130,207,"<6.7mM","ST-T wave abnormality",96,"yes",1,"No narrowing","va",">=57","<143","<1.5",3.47227951508987,4.6121109532179
+61,"male","non-anginal pain",120,337,"<6.7mM","normal",98,"yes",0,"Narrowing","va",">=57","<143","<1.5",0.267188580450757,4.33317911179395
+58,"male","non-anginal pain",150,219,"<6.7mM","ST-T wave abnormality",118,"yes",0,"Narrowing","va",">=57","<143","<1.5",4.02822405694975,4.44052274089246
+74,"male","asymptomatic",155,310,"<6.7mM","normal",112,"yes",1.5,"Narrowing","va",">=57","<143",">=1.5",0.560748545368431,4.67262468371349
+68,"male","non-anginal pain",134,254,">6.7mM","normal",151,"yes",0,"No narrowing","va",">=57",">=143","<1.5",1.48711419724173,3.85018000509153
+51,"female","asymptomatic",114,258,">6.7mM","left ventricular hypertrophy",96,"no",1,"No narrowing","va","<57","<143","<1.5",-6.00183532320217,3.75748364621655
+62,"male","asymptomatic",160,254,">6.7mM","ST-T wave abnormality",108,"yes",3,"Narrowing","va",">=57","<143",">=1.5",3.06610767996367,4.14321739926779
+53,"male","asymptomatic",144,300,">6.7mM","ST-T wave abnormality",128,"yes",1.5,"Narrowing","va","<57","<143",">=1.5",2.91921021480343,4.10713362784163
+62,"male","asymptomatic",158,170,"<6.7mM","ST-T wave abnormality",138,"yes",0,"Narrowing","va",">=57","<143","<1.5",3.9460135509621,4.46175652358698
+46,"male","asymptomatic",134,310,"<6.7mM","normal",126,"no",0,"Narrowing","va","<57","<143","<1.5",0.803289396387828,4.08802028126974
+54,"female","asymptomatic",127,333,">6.7mM","ST-T wave abnormality",154,"no",0,"Narrowing","va","<57",">=143","<1.5",2.78231715625535,4.00375165775588
+55,"male","asymptomatic",122,223,">6.7mM","ST-T wave abnormality",100,"no",0,"Narrowing","va","<57","<143","<1.5",2.68484952823893,4.34712584514655
+62,"male","atypical angina",120,254,"<6.7mM","left ventricular hypertrophy",93,"yes",0,"Narrowing","va",">=57","<143","<1.5",0.55097935739497,4.17745569406588

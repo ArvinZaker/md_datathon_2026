@@ -1,0 +1,17 @@
+clean_run: 2026-03-07 11:32:25 PST
+
+[cleveland] rows=303 cols=15
+age: 0 | sex: 0 | chest pain: 0 | resting bp: 0 | cholestoral: 0 | fasting sugar: 0 | resting ECG: 0 | max HR: 0 | exercise angina: 0 | exercise ST depression: 0 | slope ST segment: 0 | number of vessels flourosopy: 4 | thal: 2 | diagnosis: 0 | dataset: 0
+
+[hungarian] rows=294 cols=15
+age: 0 | sex: 0 | chest pain: 0 | resting bp: 1 | cholestoral: 23 | fasting sugar: 8 | resting ECG: 1 | max HR: 1 | exercise angina: 1 | exercise ST depression: 0 | slope ST segment: 190 | number of vessels flourosopy: 291 | thal: 266 | diagnosis: 0 | dataset: 0
+
+[switzerland] rows=123 cols=15
+age: 0 | sex: 0 | chest pain: 0 | resting bp: 2 | cholestoral: 0 | fasting sugar: 75 | resting ECG: 1 | max HR: 1 | exercise angina: 1 | exercise ST depression: 6 | slope ST segment: 17 | number of vessels flourosopy: 118 | thal: 52 | diagnosis: 0 | dataset: 0
+
+[va] rows=200 cols=15
+age: 0 | sex: 0 | chest pain: 0 | resting bp: 56 | cholestoral: 7 | fasting sugar: 7 | resting ECG: 0 | max HR: 53 | exercise angina: 53 | exercise ST depression: 56 | slope ST segment: 102 | number of vessels flourosopy: 198 | thal: 166 | diagnosis: 0 | dataset: 0
+
+[all_merged] rows=920 cols=15
+age: 0 | sex: 0 | chest pain: 0 | resting bp: 59 | cholestoral: 30 | fasting sugar: 90 | resting ECG: 2 | max HR: 55 | exercise angina: 55 | exercise ST depression: 62 | slope ST segment: 309 | number of vessels flourosopy: 611 | thal: 486 | diagnosis: 0 | dataset: 0
+

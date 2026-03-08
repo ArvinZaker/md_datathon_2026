@@ -1,0 +1,5 @@
+Rscript "./1_clean.R"
+Rscript "./2_visualize_na.R"
+Rscript "./3_split_data.R"
+Rscript "./4_rf.R"
+Rscript "./5_rf_plot.R"
