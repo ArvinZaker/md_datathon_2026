@@ -1,6 +1,11 @@
-library(shiny)
-library(caret)
-library(ggplot2)
+required_packages <- c("shiny", "caret", "ggplot2", "shapviz", "ggpubr")
+missing_packages <- required_packages[!vapply(required_packages, requireNamespace, logical(1), quietly = TRUE)]
+
+if (length(missing_packages) > 0) {
+  install.packages(missing_packages)
+}
+
+invisible(lapply(required_packages, library, character.only = TRUE))
 
 `%||%` <- function(x, y) {
   if (is.null(x)) y else x
