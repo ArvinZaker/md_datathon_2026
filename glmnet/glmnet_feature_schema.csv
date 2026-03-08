@@ -1,0 +1,16 @@
+"feature","mean","median","min","max"
+"age",52.5056603773585,53.5,28,77
+"sex_male",0.752830188679245,1,0,1
+"resting_bp",132.705660377358,130,92,200
+"cholestoral",248.069811320755,240.5,100,603
+"fasting_sugar_high",0.162264150943396,0,0,1
+"max_hr",140.388679245283,142,69,194
+"exercise_angina_yes",0.384905660377359,0,0,1
+"exercise_st_depression",0.938490566037736,0.5,0,6.2
+"chest_pain_typical_angina",0.0566037735849057,0,0,1
+"chest_pain_atypical_angina",0.20377358490566,0,0,1
+"chest_pain_non_anginal_pain",0.228301886792453,0,0,1
+"chest_pain_asymptomatic",0.511320754716981,1,0,1
+"resting_ecg_normal",0.60377358490566,1,0,1
+"resting_ecg_st_t_wave_abnormality",0.147169811320755,0,0,1
+"resting_ecg_left_ventricular_hypertrophy",0.249056603773585,0,0,1
